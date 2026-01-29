@@ -4,7 +4,7 @@ This project fine-tunes a lightweight **NanoGPT** model to solve basic arithmeti
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **Fine-tuned NanoGPT to answer:**
   - Addition: `a+b=?`
@@ -23,7 +23,7 @@ This project fine-tunes a lightweight **NanoGPT** model to solve basic arithmeti
 
 ---
 
-## ✅ Dataset Format (DPO Training)
+## Dataset Format (DPO Training)
 
 Each training sample is stored as a JSON object:
 
@@ -43,7 +43,7 @@ Each training sample is stored as a JSON object:
 
 ---
 
-## 🧠 Training Method (DPO)
+## Training Method (DPO)
 
 We optimize the model to prefer positive outputs over negative outputs using the DPO loss function:
 
@@ -55,7 +55,7 @@ Where:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. **Install dependencies:**
 ```bash
@@ -85,7 +85,7 @@ test_set = ["17+19=?", "3*17=?", "72/4=?", "72-x=34, x=?", "x*11=44, x=?"]
 
 ---
 
-## 📊 Example Outputs
+## Example Outputs
 
 | Input | Model Output |
 | --- | --- |
@@ -94,31 +94,18 @@ test_set = ["17+19=?", "3*17=?", "72/4=?", "72-x=34, x=?", "x*11=44, x=?"]
 
 ---
 
-## ⚙️ Notes / Debugging
+## Notes / Debugging
 
 * **Prompt Formatting:** Prompts should match training formatting. Use the cue: `"The answer is "`.
 * **Spacing:** In equation prompts, spacing matters. `72-x=34, x=?` may behave differently than `72-x=34,x=?` if the training data is inconsistent.
 * **CUDA Errors:** If a device-side assert is triggered, restart the runtime and ensure checkpoints are loaded correctly (try loading on CPU first).
 
----
-
-## 👨‍💻 Contributors
-
-Completed as part of the **SC3000 (Machine Learning)** assignment. Key contributions include:
-
-* Preference dataset creation (positive/negative pairs).
-* DPO training loop implementation.
-* Dataset/prompt formatting and debugging.
-* Model evaluation and checkpointing.
 
 ---
 
-## 📌 Acknowledgements
+## Acknowledgements
 
 * **NanoGPT** implementation inspired by [Andrej Karpathy](https://github.com/karpathy/nanoGPT).
 * **DPO** methodology based on recent LLM alignment research.
 
-```
-
-```
 
