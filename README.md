@@ -1,5 +1,3 @@
-
-```markdown
 # Teaching NanoGPT to do Math (DPO Fine-Tuning)
 
 This project fine-tunes a lightweight **NanoGPT** model to solve basic arithmetic and algebra-style equations using **Direct Preference Optimization (DPO)**. The model learns from **positive vs negative answer pairs** to improve its ability to output correct numeric answers for math prompts.
@@ -22,28 +20,6 @@ This project fine-tunes a lightweight **NanoGPT** model to solve basic arithmeti
   - **Incorrect / weak negative answers** (e.g., “Sorry, I don’t know” or near-miss wrong numbers)
 - **Trained using DPO loss** on GPU for fast convergence.
 - **Evaluation scripts** included to test model outputs on custom prompts.
-
----
-
-## 📂 Repository Structure
-
-```text
-NanoGPT-Math/
-│
-├── dpo/
-│   ├── dpo.ipynb                  # Main notebook for DPO training + evaluation
-│   ├── pos_neg_pairs.json         # Preference dataset (positive/negative pairs)
-│   ├── dpo_epoch*.pt              # Saved checkpoints
-│
-├── sft/
-│   ├── gpt.pt                     # Base pretrained checkpoint (starting point)
-│   ├── meta.pkl                   # Tokenizer metadata (stoi/itos)
-│
-├── model.py                       # NanoGPT model implementation
-├── generate_pairs.py              # Dataset generation script (math pairs)
-└── README.md
-
-```
 
 ---
 
