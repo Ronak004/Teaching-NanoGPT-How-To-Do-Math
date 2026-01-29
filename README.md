@@ -43,7 +43,7 @@ Each training sample is stored as a JSON object:
 
 ---
 
-## 🧠 Training Method: Direct Preference Optimization (DPO)
+## Training Method: Direct Preference Optimization (DPO)
 
 Instead of traditional Reinforcement Learning from Human Feedback (RLHF), we optimize the model to prefer correct mathematical logic over incorrect ones using the **DPO Loss Function**. This allows the model to align with "preferred" answers without needing a separate reward model.
 
