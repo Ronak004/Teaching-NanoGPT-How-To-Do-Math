@@ -5,7 +5,7 @@ This project fine-tunes a lightweight **NanoGPT** model to solve basic arithmeti
 
 ---
 
-## Key Features
+## ✨ Key Features
 
 - Fine-tuned NanoGPT to answer:
   - Addition: `a+b=?`
@@ -24,7 +24,28 @@ This project fine-tunes a lightweight **NanoGPT** model to solve basic arithmeti
 
 ---
 
-## Dataset Format (DPO Training)
+## 📂 Repository Structure
+
+```text
+NanoGPT-Math/
+│
+├── dpo/
+│   ├── dpo.ipynb                  # Main notebook for DPO training + evaluation
+│   ├── pos_neg_pairs.json         # Preference dataset (positive/negative pairs)
+│   ├── dpo_epoch*.pt              # Saved checkpoints
+│
+├── sft/
+│   ├── gpt.pt                     # Base pretrained checkpoint (starting point)
+│   ├── meta.pkl                   # Tokenizer metadata (stoi/itos)
+│
+├── model.py                       # NanoGPT model implementation
+├── generate_pairs.py              # Dataset generation script (math pairs)
+└── README.md
+````
+
+---
+
+## ✅ Dataset Format (DPO Training)
 
 Each training sample is stored as a JSON object:
 
@@ -43,7 +64,7 @@ Each training sample is stored as a JSON object:
 
 ---
 
-## Training Method (DPO)
+## 🧠 Training Method (DPO)
 
 We optimize the model to prefer **positive outputs** over **negative outputs** using the DPO loss:
 
@@ -59,7 +80,7 @@ Where:
 
 ---
 
-## How to Run
+## 🚀 How to Run
 
 ### 1) Install dependencies
 
@@ -103,7 +124,7 @@ test_set = [
 
 ---
 
-## Example Outputs
+## 📊 Example Outputs
 
 **Input**
 
@@ -131,7 +152,7 @@ A: 4
 
 ---
 
-## Notes / Debugging
+## ⚙️ Notes / Debugging
 
 * During testing, prompts should match training formatting:
 
@@ -143,7 +164,23 @@ A: 4
 
 ---
 
+## 👨‍💻 Contributors
+
+Completed as part of **SC3000 (Machine Learning)** assignment work, focused on:
+
+* Preference dataset creation (positive/negative pairs)
+* DPO training loop implementation
+* Debugging dataset/prompt formatting issues
+* Model evaluation and checkpointing
+
+---
+
 ## 📌 Acknowledgements
 
 * NanoGPT implementation inspired by Andrej Karpathy’s NanoGPT
 * DPO based on preference optimization techniques commonly used in LLM alignment research
+
+```
+
+```
+
