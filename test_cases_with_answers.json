@@ -1,0 +1,6002 @@
+[
+    {
+        "type": "a_plus_b_q",
+        "Q": "977+308=?",
+        "A": 1285,
+        "pos": "977+308=? The answer is 1285 because 977+308 equals 1285."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "933-295=?",
+        "A": 638,
+        "pos": "933-295=? The answer is 638 because 933-295 equals 638."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "78*9=?",
+        "A": 702,
+        "pos": "78*9=? The answer is 702 because 78*9 equals 702."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-191=942, x=?",
+        "A": 1133,
+        "pos": "x-191=942, x=? The answer is 1133 because 942+191 equals 1133."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "7/1=?",
+        "A": 7,
+        "pos": "7/1=? The answer is 7 because 7/1 equals 7."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "92*4=?",
+        "A": 368,
+        "pos": "92*4=? The answer is 368 because 92*4 equals 368."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-610=395, x=?",
+        "A": 1005,
+        "pos": "x-610=395, x=? The answer is 1005 because 395+610 equals 1005."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "765-x=9, x=?",
+        "A": 756,
+        "pos": "765-x=9, x=? The answer is 756 because 765-9 equals 756."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-32=358, x=?",
+        "A": 390,
+        "pos": "x-32=358, x=? The answer is 390 because 358+32 equals 390."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+934=1424, x=?",
+        "A": 490,
+        "pos": "x+934=1424, x=? The answer is 490 because 1424-934 equals 490."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "125+521=?",
+        "A": 646,
+        "pos": "125+521=? The answer is 646 because 125+521 equals 646."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "325-117=?",
+        "A": 208,
+        "pos": "325-117=? The answer is 208 because 325-117 equals 208."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "12*66=?",
+        "A": 792,
+        "pos": "12*66=? The answer is 792 because 12*66 equals 792."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "160-32=?",
+        "A": 128,
+        "pos": "160-32=? The answer is 128 because 160-32 equals 128."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "6/3=?",
+        "A": 2,
+        "pos": "6/3=? The answer is 2 because 6/3 equals 2."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "96/x=8, x=?",
+        "A": 12,
+        "pos": "96/x=8, x=? The answer is 12 because 96/8 equals 12."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*4=388, x=?",
+        "A": 97,
+        "pos": "x*4=388, x=? The answer is 97 because 388/4 equals 97."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*9=414, x=?",
+        "A": 46,
+        "pos": "x*9=414, x=? The answer is 46 because 414/9 equals 46."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "867+58=?",
+        "A": 925,
+        "pos": "867+58=? The answer is 925 because 867+58 equals 925."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "561-x=334, x=?",
+        "A": 227,
+        "pos": "561-x=334, x=? The answer is 227 because 561-334 equals 227."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "670+417=?",
+        "A": 1087,
+        "pos": "670+417=? The answer is 1087 because 670+417 equals 1087."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "831-310=?",
+        "A": 521,
+        "pos": "831-310=? The answer is 521 because 831-310 equals 521."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "172+871=?",
+        "A": 1043,
+        "pos": "172+871=? The answer is 1043 because 172+871 equals 1043."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "504-14=?",
+        "A": 490,
+        "pos": "504-14=? The answer is 490 because 504-14 equals 490."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "28/x=7, x=?",
+        "A": 4,
+        "pos": "28/x=7, x=? The answer is 4 because 28/7 equals 4."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "513-359=?",
+        "A": 154,
+        "pos": "513-359=? The answer is 154 because 513-359 equals 154."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1402-x=643, x=?",
+        "A": 759,
+        "pos": "1402-x=643, x=? The answer is 759 because 1402-643 equals 759."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "310+892=?",
+        "A": 1202,
+        "pos": "310+892=? The answer is 1202 because 310+892 equals 1202."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "12/x=2, x=?",
+        "A": 6,
+        "pos": "12/x=2, x=? The answer is 6 because 12/2 equals 6."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*12=420, x=?",
+        "A": 35,
+        "pos": "x*12=420, x=? The answer is 35 because 420/12 equals 35."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "12/2=?",
+        "A": 6,
+        "pos": "12/2=? The answer is 6 because 12/2 equals 6."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "8/4=?",
+        "A": 2,
+        "pos": "8/4=? The answer is 2 because 8/4 equals 2."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "158-123=?",
+        "A": 35,
+        "pos": "158-123=? The answer is 35 because 158-123 equals 35."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+720=1568, x=?",
+        "A": 848,
+        "pos": "x+720=1568, x=? The answer is 848 because 1568-720 equals 848."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+868=1046, x=?",
+        "A": 178,
+        "pos": "x+868=1046, x=? The answer is 178 because 1046-868 equals 178."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "27*41=?",
+        "A": 1107,
+        "pos": "27*41=? The answer is 1107 because 27*41 equals 1107."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*8=8, x=?",
+        "A": 1,
+        "pos": "x*8=8, x=? The answer is 1 because 8/8 equals 1."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "742-x=15, x=?",
+        "A": 727,
+        "pos": "742-x=15, x=? The answer is 727 because 742-15 equals 727."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "86-23=?",
+        "A": 63,
+        "pos": "86-23=? The answer is 63 because 86-23 equals 63."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "59*57=?",
+        "A": 3363,
+        "pos": "59*57=? The answer is 3363 because 59*57 equals 3363."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*4=312, x=?",
+        "A": 78,
+        "pos": "x*4=312, x=? The answer is 78 because 312/4 equals 78."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "38*30=?",
+        "A": 1140,
+        "pos": "38*30=? The answer is 1140 because 38*30 equals 1140."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-461=558, x=?",
+        "A": 1019,
+        "pos": "x-461=558, x=? The answer is 1019 because 558+461 equals 1019."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "1*11=?",
+        "A": 11,
+        "pos": "1*11=? The answer is 11 because 1*11 equals 11."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "228-56=?",
+        "A": 172,
+        "pos": "228-56=? The answer is 172 because 228-56 equals 172."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "110/x=11, x=?",
+        "A": 10,
+        "pos": "110/x=11, x=? The answer is 10 because 110/11 equals 10."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1017-x=56, x=?",
+        "A": 961,
+        "pos": "1017-x=56, x=? The answer is 961 because 1017-56 equals 961."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "26*12=?",
+        "A": 312,
+        "pos": "26*12=? The answer is 312 because 26*12 equals 312."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*3=234, x=?",
+        "A": 78,
+        "pos": "x*3=234, x=? The answer is 78 because 234/3 equals 78."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-615=424, x=?",
+        "A": 1039,
+        "pos": "x-615=424, x=? The answer is 1039 because 424+615 equals 1039."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-31=433, x=?",
+        "A": 464,
+        "pos": "x-31=433, x=? The answer is 464 because 433+31 equals 464."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+662=866, x=?",
+        "A": 204,
+        "pos": "x+662=866, x=? The answer is 204 because 866-662 equals 204."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+822=1706, x=?",
+        "A": 884,
+        "pos": "x+822=1706, x=? The answer is 884 because 1706-822 equals 884."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "70/7=?",
+        "A": 10,
+        "pos": "70/7=? The answer is 10 because 70/7 equals 10."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "88*30=?",
+        "A": 2640,
+        "pos": "88*30=? The answer is 2640 because 88*30 equals 2640."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "56*25=?",
+        "A": 1400,
+        "pos": "56*25=? The answer is 1400 because 56*25 equals 1400."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "630-68=?",
+        "A": 562,
+        "pos": "630-68=? The answer is 562 because 630-68 equals 562."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "12/x=3, x=?",
+        "A": 4,
+        "pos": "12/x=3, x=? The answer is 4 because 12/3 equals 4."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "279-279=?",
+        "A": 0,
+        "pos": "279-279=? The answer is 0 because 279-279 equals 0."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-78=843, x=?",
+        "A": 921,
+        "pos": "x-78=843, x=? The answer is 921 because 843+78 equals 921."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-614=611, x=?",
+        "A": 1225,
+        "pos": "x-614=611, x=? The answer is 1225 because 611+614 equals 1225."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "599-x=113, x=?",
+        "A": 486,
+        "pos": "599-x=113, x=? The answer is 486 because 599-113 equals 486."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-69=206, x=?",
+        "A": 275,
+        "pos": "x-69=206, x=? The answer is 275 because 206+69 equals 275."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "10/x=1, x=?",
+        "A": 10,
+        "pos": "10/x=1, x=? The answer is 10 because 10/1 equals 10."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "120/12=?",
+        "A": 10,
+        "pos": "120/12=? The answer is 10 because 120/12 equals 10."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-998=285, x=?",
+        "A": 1283,
+        "pos": "x-998=285, x=? The answer is 1283 because 285+998 equals 1283."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "905+956=?",
+        "A": 1861,
+        "pos": "905+956=? The answer is 1861 because 905+956 equals 1861."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "30/x=10, x=?",
+        "A": 3,
+        "pos": "30/x=10, x=? The answer is 3 because 30/10 equals 3."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+819=1607, x=?",
+        "A": 788,
+        "pos": "x+819=1607, x=? The answer is 788 because 1607-819 equals 788."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1203-x=710, x=?",
+        "A": 493,
+        "pos": "1203-x=710, x=? The answer is 493 because 1203-710 equals 493."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "8/x=8, x=?",
+        "A": 1,
+        "pos": "8/x=8, x=? The answer is 1 because 8/8 equals 1."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "60/x=5, x=?",
+        "A": 12,
+        "pos": "60/x=5, x=? The answer is 12 because 60/5 equals 12."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1318-x=476, x=?",
+        "A": 842,
+        "pos": "1318-x=476, x=? The answer is 842 because 1318-476 equals 842."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "537-347=?",
+        "A": 190,
+        "pos": "537-347=? The answer is 190 because 537-347 equals 190."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+52=234, x=?",
+        "A": 182,
+        "pos": "x+52=234, x=? The answer is 182 because 234-52 equals 182."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "110/11=?",
+        "A": 10,
+        "pos": "110/11=? The answer is 10 because 110/11 equals 10."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "0/6=?",
+        "A": 0,
+        "pos": "0/6=? The answer is 0 because 0/6 equals 0."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "40/10=?",
+        "A": 4,
+        "pos": "40/10=? The answer is 4 because 40/10 equals 4."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "904+368=?",
+        "A": 1272,
+        "pos": "904+368=? The answer is 1272 because 904+368 equals 1272."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "14/2=?",
+        "A": 7,
+        "pos": "14/2=? The answer is 7 because 14/2 equals 7."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "40*17=?",
+        "A": 680,
+        "pos": "40*17=? The answer is 680 because 40*17 equals 680."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+64=1007, x=?",
+        "A": 943,
+        "pos": "x+64=1007, x=? The answer is 943 because 1007-64 equals 943."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "91*42=?",
+        "A": 3822,
+        "pos": "91*42=? The answer is 3822 because 91*42 equals 3822."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "836-x=533, x=?",
+        "A": 303,
+        "pos": "836-x=533, x=? The answer is 303 because 836-533 equals 303."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*10=870, x=?",
+        "A": 87,
+        "pos": "x*10=870, x=? The answer is 87 because 870/10 equals 87."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "2/1=?",
+        "A": 2,
+        "pos": "2/1=? The answer is 2 because 2/1 equals 2."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "35/x=7, x=?",
+        "A": 5,
+        "pos": "35/x=7, x=? The answer is 5 because 35/7 equals 5."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "386-256=?",
+        "A": 130,
+        "pos": "386-256=? The answer is 130 because 386-256 equals 130."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-641=853, x=?",
+        "A": 1494,
+        "pos": "x-641=853, x=? The answer is 1494 because 853+641 equals 1494."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "132/x=11, x=?",
+        "A": 12,
+        "pos": "132/x=11, x=? The answer is 12 because 132/11 equals 12."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "598-472=?",
+        "A": 126,
+        "pos": "598-472=? The answer is 126 because 598-472 equals 126."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "29-14=?",
+        "A": 15,
+        "pos": "29-14=? The answer is 15 because 29-14 equals 15."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*10=110, x=?",
+        "A": 11,
+        "pos": "x*10=110, x=? The answer is 11 because 110/10 equals 11."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*4=372, x=?",
+        "A": 93,
+        "pos": "x*4=372, x=? The answer is 93 because 372/4 equals 93."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "35/7=?",
+        "A": 5,
+        "pos": "35/7=? The answer is 5 because 35/7 equals 5."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "93*13=?",
+        "A": 1209,
+        "pos": "93*13=? The answer is 1209 because 93*13 equals 1209."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+287=773, x=?",
+        "A": 486,
+        "pos": "x+287=773, x=? The answer is 486 because 773-287 equals 486."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*10=80, x=?",
+        "A": 8,
+        "pos": "x*10=80, x=? The answer is 8 because 80/10 equals 8."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+442=1124, x=?",
+        "A": 682,
+        "pos": "x+442=1124, x=? The answer is 682 because 1124-442 equals 682."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "20/x=5, x=?",
+        "A": 4,
+        "pos": "20/x=5, x=? The answer is 4 because 20/5 equals 4."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "941+362=?",
+        "A": 1303,
+        "pos": "941+362=? The answer is 1303 because 941+362 equals 1303."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "962+703=?",
+        "A": 1665,
+        "pos": "962+703=? The answer is 1665 because 962+703 equals 1665."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "749-x=335, x=?",
+        "A": 414,
+        "pos": "749-x=335, x=? The answer is 414 because 749-335 equals 414."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "12/2=?",
+        "A": 6,
+        "pos": "12/2=? The answer is 6 because 12/2 equals 6."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+350=1132, x=?",
+        "A": 782,
+        "pos": "x+350=1132, x=? The answer is 782 because 1132-350 equals 782."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "185-114=?",
+        "A": 71,
+        "pos": "185-114=? The answer is 71 because 185-114 equals 71."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "334-217=?",
+        "A": 117,
+        "pos": "334-217=? The answer is 117 because 334-217 equals 117."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "9/x=1, x=?",
+        "A": 9,
+        "pos": "9/x=1, x=? The answer is 9 because 9/1 equals 9."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1419-x=684, x=?",
+        "A": 735,
+        "pos": "1419-x=684, x=? The answer is 735 because 1419-684 equals 735."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+213=969, x=?",
+        "A": 756,
+        "pos": "x+213=969, x=? The answer is 756 because 969-213 equals 756."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "880+331=?",
+        "A": 1211,
+        "pos": "880+331=? The answer is 1211 because 880+331 equals 1211."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "16/x=4, x=?",
+        "A": 4,
+        "pos": "16/x=4, x=? The answer is 4 because 16/4 equals 4."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+544=940, x=?",
+        "A": 396,
+        "pos": "x+544=940, x=? The answer is 396 because 940-544 equals 396."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "879-629=?",
+        "A": 250,
+        "pos": "879-629=? The answer is 250 because 879-629 equals 250."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "554+48=?",
+        "A": 602,
+        "pos": "554+48=? The answer is 602 because 554+48 equals 602."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "6-4=?",
+        "A": 2,
+        "pos": "6-4=? The answer is 2 because 6-4 equals 2."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+654=1450, x=?",
+        "A": 796,
+        "pos": "x+654=1450, x=? The answer is 796 because 1450-654 equals 796."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-649=663, x=?",
+        "A": 1312,
+        "pos": "x-649=663, x=? The answer is 1312 because 663+649 equals 1312."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "20/2=?",
+        "A": 10,
+        "pos": "20/2=? The answer is 10 because 20/2 equals 10."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1453-x=773, x=?",
+        "A": 680,
+        "pos": "1453-x=773, x=? The answer is 680 because 1453-773 equals 680."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-465=452, x=?",
+        "A": 917,
+        "pos": "x-465=452, x=? The answer is 917 because 452+465 equals 917."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "8/x=1, x=?",
+        "A": 8,
+        "pos": "8/x=1, x=? The answer is 8 because 8/1 equals 8."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*7=357, x=?",
+        "A": 51,
+        "pos": "x*7=357, x=? The answer is 51 because 357/7 equals 51."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+388=1043, x=?",
+        "A": 655,
+        "pos": "x+388=1043, x=? The answer is 655 because 1043-388 equals 655."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "50/x=10, x=?",
+        "A": 5,
+        "pos": "50/x=10, x=? The answer is 5 because 50/10 equals 5."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "44*23=?",
+        "A": 1012,
+        "pos": "44*23=? The answer is 1012 because 44*23 equals 1012."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-368=913, x=?",
+        "A": 1281,
+        "pos": "x-368=913, x=? The answer is 1281 because 913+368 equals 1281."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "120/10=?",
+        "A": 12,
+        "pos": "120/10=? The answer is 12 because 120/10 equals 12."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "895+335=?",
+        "A": 1230,
+        "pos": "895+335=? The answer is 1230 because 895+335 equals 1230."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "12/2=?",
+        "A": 6,
+        "pos": "12/2=? The answer is 6 because 12/2 equals 6."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "15/5=?",
+        "A": 3,
+        "pos": "15/5=? The answer is 3 because 15/5 equals 3."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "48*89=?",
+        "A": 4272,
+        "pos": "48*89=? The answer is 4272 because 48*89 equals 4272."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "844-841=?",
+        "A": 3,
+        "pos": "844-841=? The answer is 3 because 844-841 equals 3."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1199-x=332, x=?",
+        "A": 867,
+        "pos": "1199-x=332, x=? The answer is 867 because 1199-332 equals 867."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+760=884, x=?",
+        "A": 124,
+        "pos": "x+760=884, x=? The answer is 124 because 884-760 equals 124."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "970-489=?",
+        "A": 481,
+        "pos": "970-489=? The answer is 481 because 970-489 equals 481."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*9=54, x=?",
+        "A": 6,
+        "pos": "x*9=54, x=? The answer is 6 because 54/9 equals 6."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "736-528=?",
+        "A": 208,
+        "pos": "736-528=? The answer is 208 because 736-528 equals 208."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "11/11=?",
+        "A": 1,
+        "pos": "11/11=? The answer is 1 because 11/11 equals 1."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "28/7=?",
+        "A": 4,
+        "pos": "28/7=? The answer is 4 because 28/7 equals 4."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "437-77=?",
+        "A": 360,
+        "pos": "437-77=? The answer is 360 because 437-77 equals 360."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1561-x=712, x=?",
+        "A": 849,
+        "pos": "1561-x=712, x=? The answer is 849 because 1561-712 equals 849."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+293=1172, x=?",
+        "A": 879,
+        "pos": "x+293=1172, x=? The answer is 879 because 1172-293 equals 879."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*12=1032, x=?",
+        "A": 86,
+        "pos": "x*12=1032, x=? The answer is 86 because 1032/12 equals 86."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "0/10=?",
+        "A": 0,
+        "pos": "0/10=? The answer is 0 because 0/10 equals 0."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "0/6=?",
+        "A": 0,
+        "pos": "0/6=? The answer is 0 because 0/6 equals 0."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "48/x=6, x=?",
+        "A": 8,
+        "pos": "48/x=6, x=? The answer is 8 because 48/6 equals 8."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "845-x=825, x=?",
+        "A": 20,
+        "pos": "845-x=825, x=? The answer is 20 because 845-825 equals 20."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+465=863, x=?",
+        "A": 398,
+        "pos": "x+465=863, x=? The answer is 398 because 863-465 equals 398."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-309=664, x=?",
+        "A": 973,
+        "pos": "x-309=664, x=? The answer is 973 because 664+309 equals 973."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "82*33=?",
+        "A": 2706,
+        "pos": "82*33=? The answer is 2706 because 82*33 equals 2706."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "915+165=?",
+        "A": 1080,
+        "pos": "915+165=? The answer is 1080 because 915+165 equals 1080."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+683=1328, x=?",
+        "A": 645,
+        "pos": "x+683=1328, x=? The answer is 645 because 1328-683 equals 645."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*2=144, x=?",
+        "A": 72,
+        "pos": "x*2=144, x=? The answer is 72 because 144/2 equals 72."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-472=75, x=?",
+        "A": 547,
+        "pos": "x-472=75, x=? The answer is 547 because 75+472 equals 547."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+533=766, x=?",
+        "A": 233,
+        "pos": "x+533=766, x=? The answer is 233 because 766-533 equals 233."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+545=1212, x=?",
+        "A": 667,
+        "pos": "x+545=1212, x=? The answer is 667 because 1212-545 equals 667."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "464-x=445, x=?",
+        "A": 19,
+        "pos": "464-x=445, x=? The answer is 19 because 464-445 equals 19."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "15*26=?",
+        "A": 390,
+        "pos": "15*26=? The answer is 390 because 15*26 equals 390."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "6*57=?",
+        "A": 342,
+        "pos": "6*57=? The answer is 342 because 6*57 equals 342."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1106-x=941, x=?",
+        "A": 165,
+        "pos": "1106-x=941, x=? The answer is 165 because 1106-941 equals 165."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*12=84, x=?",
+        "A": 7,
+        "pos": "x*12=84, x=? The answer is 7 because 84/12 equals 7."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "56*69=?",
+        "A": 3864,
+        "pos": "56*69=? The answer is 3864 because 56*69 equals 3864."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "879+485=?",
+        "A": 1364,
+        "pos": "879+485=? The answer is 1364 because 879+485 equals 1364."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "8/8=?",
+        "A": 1,
+        "pos": "8/8=? The answer is 1 because 8/8 equals 1."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+95=1033, x=?",
+        "A": 938,
+        "pos": "x+95=1033, x=? The answer is 938 because 1033-95 equals 938."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "843+706=?",
+        "A": 1549,
+        "pos": "843+706=? The answer is 1549 because 843+706 equals 1549."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "144+919=?",
+        "A": 1063,
+        "pos": "144+919=? The answer is 1063 because 144+919 equals 1063."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "741-282=?",
+        "A": 459,
+        "pos": "741-282=? The answer is 459 because 741-282 equals 459."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "30/x=5, x=?",
+        "A": 6,
+        "pos": "30/x=5, x=? The answer is 6 because 30/5 equals 6."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "36/3=?",
+        "A": 12,
+        "pos": "36/3=? The answer is 12 because 36/3 equals 12."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1354-x=882, x=?",
+        "A": 472,
+        "pos": "1354-x=882, x=? The answer is 472 because 1354-882 equals 472."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "0/10=?",
+        "A": 0,
+        "pos": "0/10=? The answer is 0 because 0/10 equals 0."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "20/10=?",
+        "A": 2,
+        "pos": "20/10=? The answer is 2 because 20/10 equals 2."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "44/x=4, x=?",
+        "A": 11,
+        "pos": "44/x=4, x=? The answer is 11 because 44/4 equals 11."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "916+223=?",
+        "A": 1139,
+        "pos": "916+223=? The answer is 1139 because 916+223 equals 1139."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "21*29=?",
+        "A": 609,
+        "pos": "21*29=? The answer is 609 because 21*29 equals 609."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1045-x=405, x=?",
+        "A": 640,
+        "pos": "1045-x=405, x=? The answer is 640 because 1045-405 equals 640."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+215=676, x=?",
+        "A": 461,
+        "pos": "x+215=676, x=? The answer is 461 because 676-215 equals 461."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-269=547, x=?",
+        "A": 816,
+        "pos": "x-269=547, x=? The answer is 816 because 547+269 equals 816."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "625-220=?",
+        "A": 405,
+        "pos": "625-220=? The answer is 405 because 625-220 equals 405."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+436=1025, x=?",
+        "A": 589,
+        "pos": "x+436=1025, x=? The answer is 589 because 1025-436 equals 589."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "3+223=?",
+        "A": 226,
+        "pos": "3+223=? The answer is 226 because 3+223 equals 226."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "883-x=105, x=?",
+        "A": 778,
+        "pos": "883-x=105, x=? The answer is 778 because 883-105 equals 778."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-166=421, x=?",
+        "A": 587,
+        "pos": "x-166=421, x=? The answer is 587 because 421+166 equals 587."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "27/x=3, x=?",
+        "A": 9,
+        "pos": "27/x=3, x=? The answer is 9 because 27/3 equals 9."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "36/x=12, x=?",
+        "A": 3,
+        "pos": "36/x=12, x=? The answer is 3 because 36/12 equals 3."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "870-825=?",
+        "A": 45,
+        "pos": "870-825=? The answer is 45 because 870-825 equals 45."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "323-84=?",
+        "A": 239,
+        "pos": "323-84=? The answer is 239 because 323-84 equals 239."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "33+430=?",
+        "A": 463,
+        "pos": "33+430=? The answer is 463 because 33+430 equals 463."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "35*53=?",
+        "A": 1855,
+        "pos": "35*53=? The answer is 1855 because 35*53 equals 1855."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "601-x=327, x=?",
+        "A": 274,
+        "pos": "601-x=327, x=? The answer is 274 because 601-327 equals 274."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1798-x=954, x=?",
+        "A": 844,
+        "pos": "1798-x=954, x=? The answer is 844 because 1798-954 equals 844."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "63/x=7, x=?",
+        "A": 9,
+        "pos": "63/x=7, x=? The answer is 9 because 63/7 equals 9."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*6=96, x=?",
+        "A": 16,
+        "pos": "x*6=96, x=? The answer is 16 because 96/6 equals 16."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "17*57=?",
+        "A": 969,
+        "pos": "17*57=? The answer is 969 because 17*57 equals 969."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "3/x=1, x=?",
+        "A": 3,
+        "pos": "3/x=1, x=? The answer is 3 because 3/1 equals 3."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "45/9=?",
+        "A": 5,
+        "pos": "45/9=? The answer is 5 because 45/9 equals 5."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "239+218=?",
+        "A": 457,
+        "pos": "239+218=? The answer is 457 because 239+218 equals 457."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+948=1689, x=?",
+        "A": 741,
+        "pos": "x+948=1689, x=? The answer is 741 because 1689-948 equals 741."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*5=435, x=?",
+        "A": 87,
+        "pos": "x*5=435, x=? The answer is 87 because 435/5 equals 87."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*11=880, x=?",
+        "A": 80,
+        "pos": "x*11=880, x=? The answer is 80 because 880/11 equals 80."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "772-654=?",
+        "A": 118,
+        "pos": "772-654=? The answer is 118 because 772-654 equals 118."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "16/4=?",
+        "A": 4,
+        "pos": "16/4=? The answer is 4 because 16/4 equals 4."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "81+409=?",
+        "A": 490,
+        "pos": "81+409=? The answer is 490 because 81+409 equals 490."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*8=480, x=?",
+        "A": 60,
+        "pos": "x*8=480, x=? The answer is 60 because 480/8 equals 60."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "36/x=6, x=?",
+        "A": 6,
+        "pos": "36/x=6, x=? The answer is 6 because 36/6 equals 6."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "685+316=?",
+        "A": 1001,
+        "pos": "685+316=? The answer is 1001 because 685+316 equals 1001."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-629=516, x=?",
+        "A": 1145,
+        "pos": "x-629=516, x=? The answer is 1145 because 516+629 equals 1145."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "50+867=?",
+        "A": 917,
+        "pos": "50+867=? The answer is 917 because 50+867 equals 917."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "78*21=?",
+        "A": 1638,
+        "pos": "78*21=? The answer is 1638 because 78*21 equals 1638."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-668=27, x=?",
+        "A": 695,
+        "pos": "x-668=27, x=? The answer is 695 because 27+668 equals 695."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "54/x=9, x=?",
+        "A": 6,
+        "pos": "54/x=9, x=? The answer is 6 because 54/9 equals 6."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "845-x=5, x=?",
+        "A": 840,
+        "pos": "845-x=5, x=? The answer is 840 because 845-5 equals 840."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "702-x=552, x=?",
+        "A": 150,
+        "pos": "702-x=552, x=? The answer is 150 because 702-552 equals 150."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "12/x=6, x=?",
+        "A": 2,
+        "pos": "12/x=6, x=? The answer is 2 because 12/6 equals 2."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "666-581=?",
+        "A": 85,
+        "pos": "666-581=? The answer is 85 because 666-581 equals 85."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "30/x=5, x=?",
+        "A": 6,
+        "pos": "30/x=5, x=? The answer is 6 because 30/5 equals 6."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-731=771, x=?",
+        "A": 1502,
+        "pos": "x-731=771, x=? The answer is 1502 because 771+731 equals 1502."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "798-x=306, x=?",
+        "A": 492,
+        "pos": "798-x=306, x=? The answer is 492 because 798-306 equals 492."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "248+874=?",
+        "A": 1122,
+        "pos": "248+874=? The answer is 1122 because 248+874 equals 1122."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+319=393, x=?",
+        "A": 74,
+        "pos": "x+319=393, x=? The answer is 74 because 393-319 equals 74."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "35*99=?",
+        "A": 3465,
+        "pos": "35*99=? The answer is 3465 because 35*99 equals 3465."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+713=741, x=?",
+        "A": 28,
+        "pos": "x+713=741, x=? The answer is 28 because 741-713 equals 28."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+678=899, x=?",
+        "A": 221,
+        "pos": "x+678=899, x=? The answer is 221 because 899-678 equals 221."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "803+53=?",
+        "A": 856,
+        "pos": "803+53=? The answer is 856 because 803+53 equals 856."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "824-x=203, x=?",
+        "A": 621,
+        "pos": "824-x=203, x=? The answer is 621 because 824-203 equals 621."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1072-x=666, x=?",
+        "A": 406,
+        "pos": "1072-x=666, x=? The answer is 406 because 1072-666 equals 406."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "111-2=?",
+        "A": 109,
+        "pos": "111-2=? The answer is 109 because 111-2 equals 109."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "438+536=?",
+        "A": 974,
+        "pos": "438+536=? The answer is 974 because 438+536 equals 974."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "2*38=?",
+        "A": 76,
+        "pos": "2*38=? The answer is 76 because 2*38 equals 76."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+24=76, x=?",
+        "A": 52,
+        "pos": "x+24=76, x=? The answer is 52 because 76-24 equals 52."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+731=903, x=?",
+        "A": 172,
+        "pos": "x+731=903, x=? The answer is 172 because 903-731 equals 172."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*12=324, x=?",
+        "A": 27,
+        "pos": "x*12=324, x=? The answer is 27 because 324/12 equals 27."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*6=174, x=?",
+        "A": 29,
+        "pos": "x*6=174, x=? The answer is 29 because 174/6 equals 29."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+766=1513, x=?",
+        "A": 747,
+        "pos": "x+766=1513, x=? The answer is 747 because 1513-766 equals 747."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "10/1=?",
+        "A": 10,
+        "pos": "10/1=? The answer is 10 because 10/1 equals 10."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+967=1541, x=?",
+        "A": 574,
+        "pos": "x+967=1541, x=? The answer is 574 because 1541-967 equals 574."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "6/6=?",
+        "A": 1,
+        "pos": "6/6=? The answer is 1 because 6/6 equals 1."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "66/6=?",
+        "A": 11,
+        "pos": "66/6=? The answer is 11 because 66/6 equals 11."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*12=288, x=?",
+        "A": 24,
+        "pos": "x*12=288, x=? The answer is 24 because 288/12 equals 24."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "755-405=?",
+        "A": 350,
+        "pos": "755-405=? The answer is 350 because 755-405 equals 350."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "602-190=?",
+        "A": 412,
+        "pos": "602-190=? The answer is 412 because 602-190 equals 412."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "97*39=?",
+        "A": 3783,
+        "pos": "97*39=? The answer is 3783 because 97*39 equals 3783."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*4=52, x=?",
+        "A": 13,
+        "pos": "x*4=52, x=? The answer is 13 because 52/4 equals 13."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "1/1=?",
+        "A": 1,
+        "pos": "1/1=? The answer is 1 because 1/1 equals 1."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "30/5=?",
+        "A": 6,
+        "pos": "30/5=? The answer is 6 because 30/5 equals 6."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "6/x=6, x=?",
+        "A": 1,
+        "pos": "6/x=6, x=? The answer is 1 because 6/6 equals 1."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "24/x=4, x=?",
+        "A": 6,
+        "pos": "24/x=4, x=? The answer is 6 because 24/4 equals 6."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "890+872=?",
+        "A": 1762,
+        "pos": "890+872=? The answer is 1762 because 890+872 equals 1762."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "70*44=?",
+        "A": 3080,
+        "pos": "70*44=? The answer is 3080 because 70*44 equals 3080."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1210-x=237, x=?",
+        "A": 973,
+        "pos": "1210-x=237, x=? The answer is 973 because 1210-237 equals 973."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1551-x=572, x=?",
+        "A": 979,
+        "pos": "1551-x=572, x=? The answer is 979 because 1551-572 equals 979."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1293-x=358, x=?",
+        "A": 935,
+        "pos": "1293-x=358, x=? The answer is 935 because 1293-358 equals 935."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "169+998=?",
+        "A": 1167,
+        "pos": "169+998=? The answer is 1167 because 169+998 equals 1167."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*4=308, x=?",
+        "A": 77,
+        "pos": "x*4=308, x=? The answer is 77 because 308/4 equals 77."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-205=645, x=?",
+        "A": 850,
+        "pos": "x-205=645, x=? The answer is 850 because 645+205 equals 850."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+814=1678, x=?",
+        "A": 864,
+        "pos": "x+814=1678, x=? The answer is 864 because 1678-814 equals 864."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "0/9=?",
+        "A": 0,
+        "pos": "0/9=? The answer is 0 because 0/9 equals 0."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "75*16=?",
+        "A": 1200,
+        "pos": "75*16=? The answer is 1200 because 75*16 equals 1200."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "60/x=5, x=?",
+        "A": 12,
+        "pos": "60/x=5, x=? The answer is 12 because 60/5 equals 12."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1137-x=736, x=?",
+        "A": 401,
+        "pos": "1137-x=736, x=? The answer is 401 because 1137-736 equals 401."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+937=1189, x=?",
+        "A": 252,
+        "pos": "x+937=1189, x=? The answer is 252 because 1189-937 equals 252."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1031-x=149, x=?",
+        "A": 882,
+        "pos": "1031-x=149, x=? The answer is 882 because 1031-149 equals 882."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-286=197, x=?",
+        "A": 483,
+        "pos": "x-286=197, x=? The answer is 483 because 197+286 equals 483."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-628=902, x=?",
+        "A": 1530,
+        "pos": "x-628=902, x=? The answer is 1530 because 902+628 equals 1530."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "40/x=10, x=?",
+        "A": 4,
+        "pos": "40/x=10, x=? The answer is 4 because 40/10 equals 4."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "758-x=701, x=?",
+        "A": 57,
+        "pos": "758-x=701, x=? The answer is 57 because 758-701 equals 57."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-701=863, x=?",
+        "A": 1564,
+        "pos": "x-701=863, x=? The answer is 1564 because 863+701 equals 1564."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "86*10=?",
+        "A": 860,
+        "pos": "86*10=? The answer is 860 because 86*10 equals 860."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "12/4=?",
+        "A": 3,
+        "pos": "12/4=? The answer is 3 because 12/4 equals 3."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "63/x=9, x=?",
+        "A": 7,
+        "pos": "63/x=9, x=? The answer is 7 because 63/9 equals 7."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "3/x=3, x=?",
+        "A": 1,
+        "pos": "3/x=3, x=? The answer is 1 because 3/3 equals 1."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "406+196=?",
+        "A": 602,
+        "pos": "406+196=? The answer is 602 because 406+196 equals 602."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "40/5=?",
+        "A": 8,
+        "pos": "40/5=? The answer is 8 because 40/5 equals 8."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "334-263=?",
+        "A": 71,
+        "pos": "334-263=? The answer is 71 because 334-263 equals 71."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "84/x=12, x=?",
+        "A": 7,
+        "pos": "84/x=12, x=? The answer is 7 because 84/12 equals 7."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "634-x=82, x=?",
+        "A": 552,
+        "pos": "634-x=82, x=? The answer is 552 because 634-82 equals 552."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "245+644=?",
+        "A": 889,
+        "pos": "245+644=? The answer is 889 because 245+644 equals 889."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "25*19=?",
+        "A": 475,
+        "pos": "25*19=? The answer is 475 because 25*19 equals 475."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "20/x=10, x=?",
+        "A": 2,
+        "pos": "20/x=10, x=? The answer is 2 because 20/10 equals 2."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+440=620, x=?",
+        "A": 180,
+        "pos": "x+440=620, x=? The answer is 180 because 620-440 equals 180."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "0/9=?",
+        "A": 0,
+        "pos": "0/9=? The answer is 0 because 0/9 equals 0."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+274=746, x=?",
+        "A": 472,
+        "pos": "x+274=746, x=? The answer is 472 because 746-274 equals 472."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "309-x=13, x=?",
+        "A": 296,
+        "pos": "309-x=13, x=? The answer is 296 because 309-13 equals 296."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*3=48, x=?",
+        "A": 16,
+        "pos": "x*3=48, x=? The answer is 16 because 48/3 equals 16."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "72/8=?",
+        "A": 9,
+        "pos": "72/8=? The answer is 9 because 72/8 equals 9."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-529=849, x=?",
+        "A": 1378,
+        "pos": "x-529=849, x=? The answer is 1378 because 849+529 equals 1378."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "40/10=?",
+        "A": 4,
+        "pos": "40/10=? The answer is 4 because 40/10 equals 4."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+368=608, x=?",
+        "A": 240,
+        "pos": "x+368=608, x=? The answer is 240 because 608-368 equals 240."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "31*71=?",
+        "A": 2201,
+        "pos": "31*71=? The answer is 2201 because 31*71 equals 2201."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "412-328=?",
+        "A": 84,
+        "pos": "412-328=? The answer is 84 because 412-328 equals 84."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "288-131=?",
+        "A": 157,
+        "pos": "288-131=? The answer is 157 because 288-131 equals 157."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "16/x=4, x=?",
+        "A": 4,
+        "pos": "16/x=4, x=? The answer is 4 because 16/4 equals 4."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "770+922=?",
+        "A": 1692,
+        "pos": "770+922=? The answer is 1692 because 770+922 equals 1692."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-590=430, x=?",
+        "A": 1020,
+        "pos": "x-590=430, x=? The answer is 1020 because 430+590 equals 1020."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "2/x=2, x=?",
+        "A": 1,
+        "pos": "2/x=2, x=? The answer is 1 because 2/2 equals 1."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "945+420=?",
+        "A": 1365,
+        "pos": "945+420=? The answer is 1365 because 945+420 equals 1365."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "49*52=?",
+        "A": 2548,
+        "pos": "49*52=? The answer is 2548 because 49*52 equals 2548."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "16/x=4, x=?",
+        "A": 4,
+        "pos": "16/x=4, x=? The answer is 4 because 16/4 equals 4."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-79=800, x=?",
+        "A": 879,
+        "pos": "x-79=800, x=? The answer is 879 because 800+79 equals 879."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "87*72=?",
+        "A": 6264,
+        "pos": "87*72=? The answer is 6264 because 87*72 equals 6264."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-164=39, x=?",
+        "A": 203,
+        "pos": "x-164=39, x=? The answer is 203 because 39+164 equals 203."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "40/8=?",
+        "A": 5,
+        "pos": "40/8=? The answer is 5 because 40/8 equals 5."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "96/x=8, x=?",
+        "A": 12,
+        "pos": "96/x=8, x=? The answer is 12 because 96/8 equals 12."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "912+381=?",
+        "A": 1293,
+        "pos": "912+381=? The answer is 1293 because 912+381 equals 1293."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+828=1151, x=?",
+        "A": 323,
+        "pos": "x+828=1151, x=? The answer is 323 because 1151-828 equals 323."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*8=176, x=?",
+        "A": 22,
+        "pos": "x*8=176, x=? The answer is 22 because 176/8 equals 22."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "70*71=?",
+        "A": 4970,
+        "pos": "70*71=? The answer is 4970 because 70*71 equals 4970."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "548-x=205, x=?",
+        "A": 343,
+        "pos": "548-x=205, x=? The answer is 343 because 548-205 equals 343."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+513=884, x=?",
+        "A": 371,
+        "pos": "x+513=884, x=? The answer is 371 because 884-513 equals 371."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+357=957, x=?",
+        "A": 600,
+        "pos": "x+357=957, x=? The answer is 600 because 957-357 equals 600."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1039-x=660, x=?",
+        "A": 379,
+        "pos": "1039-x=660, x=? The answer is 379 because 1039-660 equals 379."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1290-x=629, x=?",
+        "A": 661,
+        "pos": "1290-x=629, x=? The answer is 661 because 1290-629 equals 661."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "330+846=?",
+        "A": 1176,
+        "pos": "330+846=? The answer is 1176 because 330+846 equals 1176."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+661=1450, x=?",
+        "A": 789,
+        "pos": "x+661=1450, x=? The answer is 789 because 1450-661 equals 789."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+931=1309, x=?",
+        "A": 378,
+        "pos": "x+931=1309, x=? The answer is 378 because 1309-931 equals 378."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "8/x=1, x=?",
+        "A": 8,
+        "pos": "8/x=1, x=? The answer is 8 because 8/1 equals 8."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "63/9=?",
+        "A": 7,
+        "pos": "63/9=? The answer is 7 because 63/9 equals 7."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+379=730, x=?",
+        "A": 351,
+        "pos": "x+379=730, x=? The answer is 351 because 730-379 equals 351."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "16/x=2, x=?",
+        "A": 8,
+        "pos": "16/x=2, x=? The answer is 8 because 16/2 equals 8."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1117-x=346, x=?",
+        "A": 771,
+        "pos": "1117-x=346, x=? The answer is 771 because 1117-346 equals 771."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-59=505, x=?",
+        "A": 564,
+        "pos": "x-59=505, x=? The answer is 564 because 505+59 equals 564."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "27*3=?",
+        "A": 81,
+        "pos": "27*3=? The answer is 81 because 27*3 equals 81."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "110/11=?",
+        "A": 10,
+        "pos": "110/11=? The answer is 10 because 110/11 equals 10."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "917-348=?",
+        "A": 569,
+        "pos": "917-348=? The answer is 569 because 917-348 equals 569."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "660-418=?",
+        "A": 242,
+        "pos": "660-418=? The answer is 242 because 660-418 equals 242."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "287-159=?",
+        "A": 128,
+        "pos": "287-159=? The answer is 128 because 287-159 equals 128."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "66/x=6, x=?",
+        "A": 11,
+        "pos": "66/x=6, x=? The answer is 11 because 66/6 equals 11."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "918-x=317, x=?",
+        "A": 601,
+        "pos": "918-x=317, x=? The answer is 601 because 918-317 equals 601."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-496=400, x=?",
+        "A": 896,
+        "pos": "x-496=400, x=? The answer is 896 because 400+496 equals 896."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*9=252, x=?",
+        "A": 28,
+        "pos": "x*9=252, x=? The answer is 28 because 252/9 equals 28."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "5/x=1, x=?",
+        "A": 5,
+        "pos": "5/x=1, x=? The answer is 5 because 5/1 equals 5."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "30/5=?",
+        "A": 6,
+        "pos": "30/5=? The answer is 6 because 30/5 equals 6."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "18/x=3, x=?",
+        "A": 6,
+        "pos": "18/x=3, x=? The answer is 6 because 18/3 equals 6."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*6=48, x=?",
+        "A": 8,
+        "pos": "x*6=48, x=? The answer is 8 because 48/6 equals 8."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "24/x=6, x=?",
+        "A": 4,
+        "pos": "24/x=6, x=? The answer is 4 because 24/6 equals 4."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1551-x=648, x=?",
+        "A": 903,
+        "pos": "1551-x=648, x=? The answer is 903 because 1551-648 equals 903."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "84/7=?",
+        "A": 12,
+        "pos": "84/7=? The answer is 12 because 84/7 equals 12."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "4*57=?",
+        "A": 228,
+        "pos": "4*57=? The answer is 228 because 4*57 equals 228."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "8/x=8, x=?",
+        "A": 1,
+        "pos": "8/x=8, x=? The answer is 1 because 8/8 equals 1."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*9=180, x=?",
+        "A": 20,
+        "pos": "x*9=180, x=? The answer is 20 because 180/9 equals 20."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "88/x=8, x=?",
+        "A": 11,
+        "pos": "88/x=8, x=? The answer is 11 because 88/8 equals 11."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1145-x=563, x=?",
+        "A": 582,
+        "pos": "1145-x=563, x=? The answer is 582 because 1145-563 equals 582."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "0/6=?",
+        "A": 0,
+        "pos": "0/6=? The answer is 0 because 0/6 equals 0."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "99/x=11, x=?",
+        "A": 9,
+        "pos": "99/x=11, x=? The answer is 9 because 99/11 equals 9."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1438-x=963, x=?",
+        "A": 475,
+        "pos": "1438-x=963, x=? The answer is 475 because 1438-963 equals 475."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*9=279, x=?",
+        "A": 31,
+        "pos": "x*9=279, x=? The answer is 31 because 279/9 equals 31."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "686-540=?",
+        "A": 146,
+        "pos": "686-540=? The answer is 146 because 686-540 equals 146."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "723+24=?",
+        "A": 747,
+        "pos": "723+24=? The answer is 747 because 723+24 equals 747."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "64+520=?",
+        "A": 584,
+        "pos": "64+520=? The answer is 584 because 64+520 equals 584."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "4/4=?",
+        "A": 1,
+        "pos": "4/4=? The answer is 1 because 4/4 equals 1."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-708=215, x=?",
+        "A": 923,
+        "pos": "x-708=215, x=? The answer is 923 because 215+708 equals 923."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1025-x=742, x=?",
+        "A": 283,
+        "pos": "1025-x=742, x=? The answer is 283 because 1025-742 equals 283."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-212=582, x=?",
+        "A": 794,
+        "pos": "x-212=582, x=? The answer is 794 because 582+212 equals 794."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1502-x=573, x=?",
+        "A": 929,
+        "pos": "1502-x=573, x=? The answer is 929 because 1502-573 equals 929."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-13=296, x=?",
+        "A": 309,
+        "pos": "x-13=296, x=? The answer is 309 because 296+13 equals 309."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "30/x=5, x=?",
+        "A": 6,
+        "pos": "30/x=5, x=? The answer is 6 because 30/5 equals 6."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "22/x=11, x=?",
+        "A": 2,
+        "pos": "22/x=11, x=? The answer is 2 because 22/11 equals 2."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "50/10=?",
+        "A": 5,
+        "pos": "50/10=? The answer is 5 because 50/10 equals 5."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*10=440, x=?",
+        "A": 44,
+        "pos": "x*10=440, x=? The answer is 44 because 440/10 equals 44."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "409-102=?",
+        "A": 307,
+        "pos": "409-102=? The answer is 307 because 409-102 equals 307."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "63/x=9, x=?",
+        "A": 7,
+        "pos": "63/x=9, x=? The answer is 7 because 63/9 equals 7."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "55*18=?",
+        "A": 990,
+        "pos": "55*18=? The answer is 990 because 55*18 equals 990."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "480-x=26, x=?",
+        "A": 454,
+        "pos": "480-x=26, x=? The answer is 454 because 480-26 equals 454."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-658=826, x=?",
+        "A": 1484,
+        "pos": "x-658=826, x=? The answer is 1484 because 826+658 equals 1484."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "60/10=?",
+        "A": 6,
+        "pos": "60/10=? The answer is 6 because 60/10 equals 6."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "512-280=?",
+        "A": 232,
+        "pos": "512-280=? The answer is 232 because 512-280 equals 232."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "576-392=?",
+        "A": 184,
+        "pos": "576-392=? The answer is 184 because 576-392 equals 184."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+690=1480, x=?",
+        "A": 790,
+        "pos": "x+690=1480, x=? The answer is 790 because 1480-690 equals 790."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*11=308, x=?",
+        "A": 28,
+        "pos": "x*11=308, x=? The answer is 28 because 308/11 equals 28."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "512-498=?",
+        "A": 14,
+        "pos": "512-498=? The answer is 14 because 512-498 equals 14."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "15/x=5, x=?",
+        "A": 3,
+        "pos": "15/x=5, x=? The answer is 3 because 15/5 equals 3."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "16/2=?",
+        "A": 8,
+        "pos": "16/2=? The answer is 8 because 16/2 equals 8."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*10=220, x=?",
+        "A": 22,
+        "pos": "x*10=220, x=? The answer is 22 because 220/10 equals 22."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-330=894, x=?",
+        "A": 1224,
+        "pos": "x-330=894, x=? The answer is 1224 because 894+330 equals 1224."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "490+316=?",
+        "A": 806,
+        "pos": "490+316=? The answer is 806 because 490+316 equals 806."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*9=864, x=?",
+        "A": 96,
+        "pos": "x*9=864, x=? The answer is 96 because 864/9 equals 96."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "281-256=?",
+        "A": 25,
+        "pos": "281-256=? The answer is 25 because 281-256 equals 25."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*5=265, x=?",
+        "A": 53,
+        "pos": "x*5=265, x=? The answer is 53 because 265/5 equals 53."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "515-x=436, x=?",
+        "A": 79,
+        "pos": "515-x=436, x=? The answer is 79 because 515-436 equals 79."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "42*81=?",
+        "A": 3402,
+        "pos": "42*81=? The answer is 3402 because 42*81 equals 3402."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "4/4=?",
+        "A": 1,
+        "pos": "4/4=? The answer is 1 because 4/4 equals 1."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "864-x=673, x=?",
+        "A": 191,
+        "pos": "864-x=673, x=? The answer is 191 because 864-673 equals 191."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "273-176=?",
+        "A": 97,
+        "pos": "273-176=? The answer is 97 because 273-176 equals 97."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "28/x=4, x=?",
+        "A": 7,
+        "pos": "28/x=4, x=? The answer is 7 because 28/4 equals 7."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "776+568=?",
+        "A": 1344,
+        "pos": "776+568=? The answer is 1344 because 776+568 equals 1344."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "586-407=?",
+        "A": 179,
+        "pos": "586-407=? The answer is 179 because 586-407 equals 179."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-855=682, x=?",
+        "A": 1537,
+        "pos": "x-855=682, x=? The answer is 1537 because 682+855 equals 1537."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1064-x=782, x=?",
+        "A": 282,
+        "pos": "1064-x=782, x=? The answer is 282 because 1064-782 equals 282."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "592-202=?",
+        "A": 390,
+        "pos": "592-202=? The answer is 390 because 592-202 equals 390."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "866-326=?",
+        "A": 540,
+        "pos": "866-326=? The answer is 540 because 866-326 equals 540."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "40/8=?",
+        "A": 5,
+        "pos": "40/8=? The answer is 5 because 40/8 equals 5."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-280=546, x=?",
+        "A": 826,
+        "pos": "x-280=546, x=? The answer is 826 because 546+280 equals 826."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "45*21=?",
+        "A": 945,
+        "pos": "45*21=? The answer is 945 because 45*21 equals 945."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1041-x=75, x=?",
+        "A": 966,
+        "pos": "1041-x=75, x=? The answer is 966 because 1041-75 equals 966."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*8=136, x=?",
+        "A": 17,
+        "pos": "x*8=136, x=? The answer is 17 because 136/8 equals 17."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "7/1=?",
+        "A": 7,
+        "pos": "7/1=? The answer is 7 because 7/1 equals 7."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "56/8=?",
+        "A": 7,
+        "pos": "56/8=? The answer is 7 because 56/8 equals 7."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-510=679, x=?",
+        "A": 1189,
+        "pos": "x-510=679, x=? The answer is 1189 because 679+510 equals 1189."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*5=100, x=?",
+        "A": 20,
+        "pos": "x*5=100, x=? The answer is 20 because 100/5 equals 20."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "267+370=?",
+        "A": 637,
+        "pos": "267+370=? The answer is 637 because 267+370 equals 637."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1451-x=579, x=?",
+        "A": 872,
+        "pos": "1451-x=579, x=? The answer is 872 because 1451-579 equals 872."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "407-168=?",
+        "A": 239,
+        "pos": "407-168=? The answer is 239 because 407-168 equals 239."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-530=340, x=?",
+        "A": 870,
+        "pos": "x-530=340, x=? The answer is 870 because 340+530 equals 870."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+442=799, x=?",
+        "A": 357,
+        "pos": "x+442=799, x=? The answer is 357 because 799-442 equals 357."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "65*71=?",
+        "A": 4615,
+        "pos": "65*71=? The answer is 4615 because 65*71 equals 4615."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "12*23=?",
+        "A": 276,
+        "pos": "12*23=? The answer is 276 because 12*23 equals 276."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+352=833, x=?",
+        "A": 481,
+        "pos": "x+352=833, x=? The answer is 481 because 833-352 equals 481."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*12=156, x=?",
+        "A": 13,
+        "pos": "x*12=156, x=? The answer is 13 because 156/12 equals 13."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "30/6=?",
+        "A": 5,
+        "pos": "30/6=? The answer is 5 because 30/6 equals 5."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "861-x=330, x=?",
+        "A": 531,
+        "pos": "861-x=330, x=? The answer is 531 because 861-330 equals 531."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "20/x=5, x=?",
+        "A": 4,
+        "pos": "20/x=5, x=? The answer is 4 because 20/5 equals 4."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*3=156, x=?",
+        "A": 52,
+        "pos": "x*3=156, x=? The answer is 52 because 156/3 equals 52."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "262-69=?",
+        "A": 193,
+        "pos": "262-69=? The answer is 193 because 262-69 equals 193."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "35/x=5, x=?",
+        "A": 7,
+        "pos": "35/x=5, x=? The answer is 7 because 35/5 equals 7."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+128=920, x=?",
+        "A": 792,
+        "pos": "x+128=920, x=? The answer is 792 because 920-128 equals 792."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "72*46=?",
+        "A": 3312,
+        "pos": "72*46=? The answer is 3312 because 72*46 equals 3312."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "707-x=554, x=?",
+        "A": 153,
+        "pos": "707-x=554, x=? The answer is 153 because 707-554 equals 153."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "121-2=?",
+        "A": 119,
+        "pos": "121-2=? The answer is 119 because 121-2 equals 119."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-208=122, x=?",
+        "A": 330,
+        "pos": "x-208=122, x=? The answer is 330 because 122+208 equals 330."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "72/x=12, x=?",
+        "A": 6,
+        "pos": "72/x=12, x=? The answer is 6 because 72/12 equals 6."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "36/9=?",
+        "A": 4,
+        "pos": "36/9=? The answer is 4 because 36/9 equals 4."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "420+459=?",
+        "A": 879,
+        "pos": "420+459=? The answer is 879 because 420+459 equals 879."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "330-155=?",
+        "A": 175,
+        "pos": "330-155=? The answer is 175 because 330-155 equals 175."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "735-420=?",
+        "A": 315,
+        "pos": "735-420=? The answer is 315 because 735-420 equals 315."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "60/10=?",
+        "A": 6,
+        "pos": "60/10=? The answer is 6 because 60/10 equals 6."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "29*61=?",
+        "A": 1769,
+        "pos": "29*61=? The answer is 1769 because 29*61 equals 1769."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*5=150, x=?",
+        "A": 30,
+        "pos": "x*5=150, x=? The answer is 30 because 150/5 equals 30."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "518-460=?",
+        "A": 58,
+        "pos": "518-460=? The answer is 58 because 518-460 equals 58."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "947-x=473, x=?",
+        "A": 474,
+        "pos": "947-x=473, x=? The answer is 474 because 947-473 equals 474."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "32+337=?",
+        "A": 369,
+        "pos": "32+337=? The answer is 369 because 32+337 equals 369."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "42/x=6, x=?",
+        "A": 7,
+        "pos": "42/x=6, x=? The answer is 7 because 42/6 equals 7."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "21/x=3, x=?",
+        "A": 7,
+        "pos": "21/x=3, x=? The answer is 7 because 21/3 equals 7."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "6/x=3, x=?",
+        "A": 2,
+        "pos": "6/x=3, x=? The answer is 2 because 6/3 equals 2."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "90/x=9, x=?",
+        "A": 10,
+        "pos": "90/x=9, x=? The answer is 10 because 90/9 equals 10."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1048-x=273, x=?",
+        "A": 775,
+        "pos": "1048-x=273, x=? The answer is 775 because 1048-273 equals 775."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "648+975=?",
+        "A": 1623,
+        "pos": "648+975=? The answer is 1623 because 648+975 equals 1623."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "66/x=6, x=?",
+        "A": 11,
+        "pos": "66/x=6, x=? The answer is 11 because 66/6 equals 11."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "756-145=?",
+        "A": 611,
+        "pos": "756-145=? The answer is 611 because 756-145 equals 611."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "119+60=?",
+        "A": 179,
+        "pos": "119+60=? The answer is 179 because 119+60 equals 179."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*10=680, x=?",
+        "A": 68,
+        "pos": "x*10=680, x=? The answer is 68 because 680/10 equals 68."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "51*46=?",
+        "A": 2346,
+        "pos": "51*46=? The answer is 2346 because 51*46 equals 2346."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "584+837=?",
+        "A": 1421,
+        "pos": "584+837=? The answer is 1421 because 584+837 equals 1421."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*10=380, x=?",
+        "A": 38,
+        "pos": "x*10=380, x=? The answer is 38 because 380/10 equals 38."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*9=432, x=?",
+        "A": 48,
+        "pos": "x*9=432, x=? The answer is 48 because 432/9 equals 48."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "110/x=11, x=?",
+        "A": 10,
+        "pos": "110/x=11, x=? The answer is 10 because 110/11 equals 10."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "76*8=?",
+        "A": 608,
+        "pos": "76*8=? The answer is 608 because 76*8 equals 608."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-926=259, x=?",
+        "A": 1185,
+        "pos": "x-926=259, x=? The answer is 1185 because 259+926 equals 1185."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*3=60, x=?",
+        "A": 20,
+        "pos": "x*3=60, x=? The answer is 20 because 60/3 equals 20."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "48/4=?",
+        "A": 12,
+        "pos": "48/4=? The answer is 12 because 48/4 equals 12."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "440+586=?",
+        "A": 1026,
+        "pos": "440+586=? The answer is 1026 because 440+586 equals 1026."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "60/x=5, x=?",
+        "A": 12,
+        "pos": "60/x=5, x=? The answer is 12 because 60/5 equals 12."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-300=241, x=?",
+        "A": 541,
+        "pos": "x-300=241, x=? The answer is 541 because 241+300 equals 541."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "322+828=?",
+        "A": 1150,
+        "pos": "322+828=? The answer is 1150 because 322+828 equals 1150."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "19*44=?",
+        "A": 836,
+        "pos": "19*44=? The answer is 836 because 19*44 equals 836."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-854=831, x=?",
+        "A": 1685,
+        "pos": "x-854=831, x=? The answer is 1685 because 831+854 equals 1685."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "30/3=?",
+        "A": 10,
+        "pos": "30/3=? The answer is 10 because 30/3 equals 10."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-744=529, x=?",
+        "A": 1273,
+        "pos": "x-744=529, x=? The answer is 1273 because 529+744 equals 1273."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "741-x=458, x=?",
+        "A": 283,
+        "pos": "741-x=458, x=? The answer is 283 because 741-458 equals 283."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "714-387=?",
+        "A": 327,
+        "pos": "714-387=? The answer is 327 because 714-387 equals 327."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "534+830=?",
+        "A": 1364,
+        "pos": "534+830=? The answer is 1364 because 534+830 equals 1364."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+770=856, x=?",
+        "A": 86,
+        "pos": "x+770=856, x=? The answer is 86 because 856-770 equals 86."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+597=1162, x=?",
+        "A": 565,
+        "pos": "x+597=1162, x=? The answer is 565 because 1162-597 equals 565."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "757+862=?",
+        "A": 1619,
+        "pos": "757+862=? The answer is 1619 because 757+862 equals 1619."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-847=152, x=?",
+        "A": 999,
+        "pos": "x-847=152, x=? The answer is 999 because 152+847 equals 999."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-924=272, x=?",
+        "A": 1196,
+        "pos": "x-924=272, x=? The answer is 1196 because 272+924 equals 1196."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "12*68=?",
+        "A": 816,
+        "pos": "12*68=? The answer is 816 because 12*68 equals 816."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "209+239=?",
+        "A": 448,
+        "pos": "209+239=? The answer is 448 because 209+239 equals 448."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "861-x=583, x=?",
+        "A": 278,
+        "pos": "861-x=583, x=? The answer is 278 because 861-583 equals 278."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-356=237, x=?",
+        "A": 593,
+        "pos": "x-356=237, x=? The answer is 593 because 237+356 equals 593."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "392+595=?",
+        "A": 987,
+        "pos": "392+595=? The answer is 987 because 392+595 equals 987."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "398-54=?",
+        "A": 344,
+        "pos": "398-54=? The answer is 344 because 398-54 equals 344."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "95*44=?",
+        "A": 4180,
+        "pos": "95*44=? The answer is 4180 because 95*44 equals 4180."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "45/x=5, x=?",
+        "A": 9,
+        "pos": "45/x=5, x=? The answer is 9 because 45/5 equals 9."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "447-x=334, x=?",
+        "A": 113,
+        "pos": "447-x=334, x=? The answer is 113 because 447-334 equals 113."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*4=84, x=?",
+        "A": 21,
+        "pos": "x*4=84, x=? The answer is 21 because 84/4 equals 21."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "359+453=?",
+        "A": 812,
+        "pos": "359+453=? The answer is 812 because 359+453 equals 812."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+542=1405, x=?",
+        "A": 863,
+        "pos": "x+542=1405, x=? The answer is 863 because 1405-542 equals 863."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "715+441=?",
+        "A": 1156,
+        "pos": "715+441=? The answer is 1156 because 715+441 equals 1156."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "373-290=?",
+        "A": 83,
+        "pos": "373-290=? The answer is 83 because 373-290 equals 83."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "55/x=11, x=?",
+        "A": 5,
+        "pos": "55/x=11, x=? The answer is 5 because 55/11 equals 5."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*12=408, x=?",
+        "A": 34,
+        "pos": "x*12=408, x=? The answer is 34 because 408/12 equals 34."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "8/x=2, x=?",
+        "A": 4,
+        "pos": "8/x=2, x=? The answer is 4 because 8/2 equals 4."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "185+70=?",
+        "A": 255,
+        "pos": "185+70=? The answer is 255 because 185+70 equals 255."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "805+332=?",
+        "A": 1137,
+        "pos": "805+332=? The answer is 1137 because 805+332 equals 1137."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "955-x=643, x=?",
+        "A": 312,
+        "pos": "955-x=643, x=? The answer is 312 because 955-643 equals 312."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "20/10=?",
+        "A": 2,
+        "pos": "20/10=? The answer is 2 because 20/10 equals 2."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*10=470, x=?",
+        "A": 47,
+        "pos": "x*10=470, x=? The answer is 47 because 470/10 equals 47."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "743+608=?",
+        "A": 1351,
+        "pos": "743+608=? The answer is 1351 because 743+608 equals 1351."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "45/5=?",
+        "A": 9,
+        "pos": "45/5=? The answer is 9 because 45/5 equals 9."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*11=792, x=?",
+        "A": 72,
+        "pos": "x*11=792, x=? The answer is 72 because 792/11 equals 72."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "19*32=?",
+        "A": 608,
+        "pos": "19*32=? The answer is 608 because 19*32 equals 608."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "25*27=?",
+        "A": 675,
+        "pos": "25*27=? The answer is 675 because 25*27 equals 675."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "14/7=?",
+        "A": 2,
+        "pos": "14/7=? The answer is 2 because 14/7 equals 2."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "66*25=?",
+        "A": 1650,
+        "pos": "66*25=? The answer is 1650 because 66*25 equals 1650."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "444+710=?",
+        "A": 1154,
+        "pos": "444+710=? The answer is 1154 because 444+710 equals 1154."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "782+987=?",
+        "A": 1769,
+        "pos": "782+987=? The answer is 1769 because 782+987 equals 1769."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "685-420=?",
+        "A": 265,
+        "pos": "685-420=? The answer is 265 because 685-420 equals 265."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-636=833, x=?",
+        "A": 1469,
+        "pos": "x-636=833, x=? The answer is 1469 because 833+636 equals 1469."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "18*79=?",
+        "A": 1422,
+        "pos": "18*79=? The answer is 1422 because 18*79 equals 1422."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "0/3=?",
+        "A": 0,
+        "pos": "0/3=? The answer is 0 because 0/3 equals 0."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "5/1=?",
+        "A": 5,
+        "pos": "5/1=? The answer is 5 because 5/1 equals 5."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "4/2=?",
+        "A": 2,
+        "pos": "4/2=? The answer is 2 because 4/2 equals 2."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-396=259, x=?",
+        "A": 655,
+        "pos": "x-396=259, x=? The answer is 655 because 259+396 equals 655."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "66+772=?",
+        "A": 838,
+        "pos": "66+772=? The answer is 838 because 66+772 equals 838."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+649=1116, x=?",
+        "A": 467,
+        "pos": "x+649=1116, x=? The answer is 467 because 1116-649 equals 467."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*9=207, x=?",
+        "A": 23,
+        "pos": "x*9=207, x=? The answer is 23 because 207/9 equals 23."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "41*43=?",
+        "A": 1763,
+        "pos": "41*43=? The answer is 1763 because 41*43 equals 1763."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-251=272, x=?",
+        "A": 523,
+        "pos": "x-251=272, x=? The answer is 523 because 272+251 equals 523."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+601=1398, x=?",
+        "A": 797,
+        "pos": "x+601=1398, x=? The answer is 797 because 1398-601 equals 797."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+359=1295, x=?",
+        "A": 936,
+        "pos": "x+359=1295, x=? The answer is 936 because 1295-359 equals 936."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "888-793=?",
+        "A": 95,
+        "pos": "888-793=? The answer is 95 because 888-793 equals 95."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-706=448, x=?",
+        "A": 1154,
+        "pos": "x-706=448, x=? The answer is 1154 because 448+706 equals 1154."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "987+126=?",
+        "A": 1113,
+        "pos": "987+126=? The answer is 1113 because 987+126 equals 1113."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+469=1354, x=?",
+        "A": 885,
+        "pos": "x+469=1354, x=? The answer is 885 because 1354-469 equals 885."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "92*38=?",
+        "A": 3496,
+        "pos": "92*38=? The answer is 3496 because 92*38 equals 3496."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1119-x=714, x=?",
+        "A": 405,
+        "pos": "1119-x=714, x=? The answer is 405 because 1119-714 equals 405."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "16*83=?",
+        "A": 1328,
+        "pos": "16*83=? The answer is 1328 because 16*83 equals 1328."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "1*14=?",
+        "A": 14,
+        "pos": "1*14=? The answer is 14 because 1*14 equals 14."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "56*87=?",
+        "A": 4872,
+        "pos": "56*87=? The answer is 4872 because 56*87 equals 4872."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*10=940, x=?",
+        "A": 94,
+        "pos": "x*10=940, x=? The answer is 94 because 940/10 equals 94."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*5=365, x=?",
+        "A": 73,
+        "pos": "x*5=365, x=? The answer is 73 because 365/5 equals 73."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "3/1=?",
+        "A": 3,
+        "pos": "3/1=? The answer is 3 because 3/1 equals 3."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "61*87=?",
+        "A": 5307,
+        "pos": "61*87=? The answer is 5307 because 61*87 equals 5307."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+107=450, x=?",
+        "A": 343,
+        "pos": "x+107=450, x=? The answer is 343 because 450-107 equals 343."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "96/x=8, x=?",
+        "A": 12,
+        "pos": "96/x=8, x=? The answer is 12 because 96/8 equals 12."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*2=188, x=?",
+        "A": 94,
+        "pos": "x*2=188, x=? The answer is 94 because 188/2 equals 94."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-711=957, x=?",
+        "A": 1668,
+        "pos": "x-711=957, x=? The answer is 1668 because 957+711 equals 1668."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "600+86=?",
+        "A": 686,
+        "pos": "600+86=? The answer is 686 because 600+86 equals 686."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "709-x=22, x=?",
+        "A": 687,
+        "pos": "709-x=22, x=? The answer is 687 because 709-22 equals 687."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "138-x=108, x=?",
+        "A": 30,
+        "pos": "138-x=108, x=? The answer is 30 because 138-108 equals 30."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "981-829=?",
+        "A": 152,
+        "pos": "981-829=? The answer is 152 because 981-829 equals 152."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "41+134=?",
+        "A": 175,
+        "pos": "41+134=? The answer is 175 because 41+134 equals 175."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "953-365=?",
+        "A": 588,
+        "pos": "953-365=? The answer is 588 because 953-365 equals 588."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1364-x=391, x=?",
+        "A": 973,
+        "pos": "1364-x=391, x=? The answer is 973 because 1364-391 equals 973."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "308-263=?",
+        "A": 45,
+        "pos": "308-263=? The answer is 45 because 308-263 equals 45."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*6=264, x=?",
+        "A": 44,
+        "pos": "x*6=264, x=? The answer is 44 because 264/6 equals 44."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "201-x=91, x=?",
+        "A": 110,
+        "pos": "201-x=91, x=? The answer is 110 because 201-91 equals 110."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1394-x=771, x=?",
+        "A": 623,
+        "pos": "1394-x=771, x=? The answer is 623 because 1394-771 equals 623."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "30/x=6, x=?",
+        "A": 5,
+        "pos": "30/x=6, x=? The answer is 5 because 30/6 equals 5."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "279-157=?",
+        "A": 122,
+        "pos": "279-157=? The answer is 122 because 279-157 equals 122."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+553=1200, x=?",
+        "A": 647,
+        "pos": "x+553=1200, x=? The answer is 647 because 1200-553 equals 647."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+999=1417, x=?",
+        "A": 418,
+        "pos": "x+999=1417, x=? The answer is 418 because 1417-999 equals 418."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "100/10=?",
+        "A": 10,
+        "pos": "100/10=? The answer is 10 because 100/10 equals 10."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "16/2=?",
+        "A": 8,
+        "pos": "16/2=? The answer is 8 because 16/2 equals 8."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "4/x=1, x=?",
+        "A": 4,
+        "pos": "4/x=1, x=? The answer is 4 because 4/1 equals 4."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-669=815, x=?",
+        "A": 1484,
+        "pos": "x-669=815, x=? The answer is 1484 because 815+669 equals 1484."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1456-x=975, x=?",
+        "A": 481,
+        "pos": "1456-x=975, x=? The answer is 481 because 1456-975 equals 481."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-437=852, x=?",
+        "A": 1289,
+        "pos": "x-437=852, x=? The answer is 1289 because 852+437 equals 1289."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*2=116, x=?",
+        "A": 58,
+        "pos": "x*2=116, x=? The answer is 58 because 116/2 equals 58."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "84*96=?",
+        "A": 8064,
+        "pos": "84*96=? The answer is 8064 because 84*96 equals 8064."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "492+908=?",
+        "A": 1400,
+        "pos": "492+908=? The answer is 1400 because 492+908 equals 1400."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "20/5=?",
+        "A": 4,
+        "pos": "20/5=? The answer is 4 because 20/5 equals 4."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-345=564, x=?",
+        "A": 909,
+        "pos": "x-345=564, x=? The answer is 909 because 564+345 equals 909."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-894=61, x=?",
+        "A": 955,
+        "pos": "x-894=61, x=? The answer is 955 because 61+894 equals 955."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "307-x=142, x=?",
+        "A": 165,
+        "pos": "307-x=142, x=? The answer is 165 because 307-142 equals 165."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-5=546, x=?",
+        "A": 551,
+        "pos": "x-5=546, x=? The answer is 551 because 546+5 equals 551."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*10=660, x=?",
+        "A": 66,
+        "pos": "x*10=660, x=? The answer is 66 because 660/10 equals 66."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "2/x=2, x=?",
+        "A": 1,
+        "pos": "2/x=2, x=? The answer is 1 because 2/2 equals 1."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+486=1276, x=?",
+        "A": 790,
+        "pos": "x+486=1276, x=? The answer is 790 because 1276-486 equals 790."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "128-28=?",
+        "A": 100,
+        "pos": "128-28=? The answer is 100 because 128-28 equals 100."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "21/3=?",
+        "A": 7,
+        "pos": "21/3=? The answer is 7 because 21/3 equals 7."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-510=864, x=?",
+        "A": 1374,
+        "pos": "x-510=864, x=? The answer is 1374 because 864+510 equals 1374."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "963-731=?",
+        "A": 232,
+        "pos": "963-731=? The answer is 232 because 963-731 equals 232."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "429-x=173, x=?",
+        "A": 256,
+        "pos": "429-x=173, x=? The answer is 256 because 429-173 equals 256."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*3=153, x=?",
+        "A": 51,
+        "pos": "x*3=153, x=? The answer is 51 because 153/3 equals 51."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "33/x=11, x=?",
+        "A": 3,
+        "pos": "33/x=11, x=? The answer is 3 because 33/11 equals 3."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "42*91=?",
+        "A": 3822,
+        "pos": "42*91=? The answer is 3822 because 42*91 equals 3822."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "16/x=4, x=?",
+        "A": 4,
+        "pos": "16/x=4, x=? The answer is 4 because 16/4 equals 4."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "60/6=?",
+        "A": 10,
+        "pos": "60/6=? The answer is 10 because 60/6 equals 10."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "12/2=?",
+        "A": 6,
+        "pos": "12/2=? The answer is 6 because 12/2 equals 6."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "889-323=?",
+        "A": 566,
+        "pos": "889-323=? The answer is 566 because 889-323 equals 566."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "472+281=?",
+        "A": 753,
+        "pos": "472+281=? The answer is 753 because 472+281 equals 753."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-383=945, x=?",
+        "A": 1328,
+        "pos": "x-383=945, x=? The answer is 1328 because 945+383 equals 1328."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "13*45=?",
+        "A": 585,
+        "pos": "13*45=? The answer is 585 because 13*45 equals 585."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1171-x=292, x=?",
+        "A": 879,
+        "pos": "1171-x=292, x=? The answer is 879 because 1171-292 equals 879."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "316+38=?",
+        "A": 354,
+        "pos": "316+38=? The answer is 354 because 316+38 equals 354."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "146-26=?",
+        "A": 120,
+        "pos": "146-26=? The answer is 120 because 146-26 equals 120."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-633=844, x=?",
+        "A": 1477,
+        "pos": "x-633=844, x=? The answer is 1477 because 844+633 equals 1477."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "652-205=?",
+        "A": 447,
+        "pos": "652-205=? The answer is 447 because 652-205 equals 447."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-844=591, x=?",
+        "A": 1435,
+        "pos": "x-844=591, x=? The answer is 1435 because 591+844 equals 1435."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "12/2=?",
+        "A": 6,
+        "pos": "12/2=? The answer is 6 because 12/2 equals 6."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "597+958=?",
+        "A": 1555,
+        "pos": "597+958=? The answer is 1555 because 597+958 equals 1555."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+541=1116, x=?",
+        "A": 575,
+        "pos": "x+541=1116, x=? The answer is 575 because 1116-541 equals 575."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "346-x=103, x=?",
+        "A": 243,
+        "pos": "346-x=103, x=? The answer is 243 because 346-103 equals 243."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "2*34=?",
+        "A": 68,
+        "pos": "2*34=? The answer is 68 because 2*34 equals 68."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "87-22=?",
+        "A": 65,
+        "pos": "87-22=? The answer is 65 because 87-22 equals 65."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "11/x=1, x=?",
+        "A": 11,
+        "pos": "11/x=1, x=? The answer is 11 because 11/1 equals 11."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "345+34=?",
+        "A": 379,
+        "pos": "345+34=? The answer is 379 because 345+34 equals 379."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "714-73=?",
+        "A": 641,
+        "pos": "714-73=? The answer is 641 because 714-73 equals 641."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*12=168, x=?",
+        "A": 14,
+        "pos": "x*12=168, x=? The answer is 14 because 168/12 equals 14."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1236-x=744, x=?",
+        "A": 492,
+        "pos": "1236-x=744, x=? The answer is 492 because 1236-744 equals 492."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "29*12=?",
+        "A": 348,
+        "pos": "29*12=? The answer is 348 because 29*12 equals 348."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "81/9=?",
+        "A": 9,
+        "pos": "81/9=? The answer is 9 because 81/9 equals 9."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "509-319=?",
+        "A": 190,
+        "pos": "509-319=? The answer is 190 because 509-319 equals 190."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1198-x=961, x=?",
+        "A": 237,
+        "pos": "1198-x=961, x=? The answer is 237 because 1198-961 equals 237."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "88/8=?",
+        "A": 11,
+        "pos": "88/8=? The answer is 11 because 88/8 equals 11."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "696-599=?",
+        "A": 97,
+        "pos": "696-599=? The answer is 97 because 696-599 equals 97."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1353-x=627, x=?",
+        "A": 726,
+        "pos": "1353-x=627, x=? The answer is 726 because 1353-627 equals 726."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*6=186, x=?",
+        "A": 31,
+        "pos": "x*6=186, x=? The answer is 31 because 186/6 equals 31."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "257+20=?",
+        "A": 277,
+        "pos": "257+20=? The answer is 277 because 257+20 equals 277."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "27/x=9, x=?",
+        "A": 3,
+        "pos": "27/x=9, x=? The answer is 3 because 27/9 equals 3."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "46*40=?",
+        "A": 1840,
+        "pos": "46*40=? The answer is 1840 because 46*40 equals 1840."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+27=335, x=?",
+        "A": 308,
+        "pos": "x+27=335, x=? The answer is 308 because 335-27 equals 308."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+395=1311, x=?",
+        "A": 916,
+        "pos": "x+395=1311, x=? The answer is 916 because 1311-395 equals 916."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "354+287=?",
+        "A": 641,
+        "pos": "354+287=? The answer is 641 because 354+287 equals 641."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*2=42, x=?",
+        "A": 21,
+        "pos": "x*2=42, x=? The answer is 21 because 42/2 equals 21."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "112+217=?",
+        "A": 329,
+        "pos": "112+217=? The answer is 329 because 112+217 equals 329."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-228=609, x=?",
+        "A": 837,
+        "pos": "x-228=609, x=? The answer is 837 because 609+228 equals 837."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+128=981, x=?",
+        "A": 853,
+        "pos": "x+128=981, x=? The answer is 853 because 981-128 equals 853."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "10/2=?",
+        "A": 5,
+        "pos": "10/2=? The answer is 5 because 10/2 equals 5."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "59-21=?",
+        "A": 38,
+        "pos": "59-21=? The answer is 38 because 59-21 equals 38."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "594+346=?",
+        "A": 940,
+        "pos": "594+346=? The answer is 940 because 594+346 equals 940."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "507+716=?",
+        "A": 1223,
+        "pos": "507+716=? The answer is 1223 because 507+716 equals 1223."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "701-x=0, x=?",
+        "A": 701,
+        "pos": "701-x=0, x=? The answer is 701 because 701-0 equals 701."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+736=1526, x=?",
+        "A": 790,
+        "pos": "x+736=1526, x=? The answer is 790 because 1526-736 equals 790."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+337=756, x=?",
+        "A": 419,
+        "pos": "x+337=756, x=? The answer is 419 because 756-337 equals 419."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*12=780, x=?",
+        "A": 65,
+        "pos": "x*12=780, x=? The answer is 65 because 780/12 equals 65."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*7=147, x=?",
+        "A": 21,
+        "pos": "x*7=147, x=? The answer is 21 because 147/7 equals 21."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+489=974, x=?",
+        "A": 485,
+        "pos": "x+489=974, x=? The answer is 485 because 974-489 equals 485."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+311=1106, x=?",
+        "A": 795,
+        "pos": "x+311=1106, x=? The answer is 795 because 1106-311 equals 795."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*11=242, x=?",
+        "A": 22,
+        "pos": "x*11=242, x=? The answer is 22 because 242/11 equals 22."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "60/10=?",
+        "A": 6,
+        "pos": "60/10=? The answer is 6 because 60/10 equals 6."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "110/x=10, x=?",
+        "A": 11,
+        "pos": "110/x=10, x=? The answer is 11 because 110/10 equals 11."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "322-29=?",
+        "A": 293,
+        "pos": "322-29=? The answer is 293 because 322-29 equals 293."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "10/x=5, x=?",
+        "A": 2,
+        "pos": "10/x=5, x=? The answer is 2 because 10/5 equals 2."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "740+490=?",
+        "A": 1230,
+        "pos": "740+490=? The answer is 1230 because 740+490 equals 1230."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+828=1435, x=?",
+        "A": 607,
+        "pos": "x+828=1435, x=? The answer is 607 because 1435-828 equals 607."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "97*98=?",
+        "A": 9506,
+        "pos": "97*98=? The answer is 9506 because 97*98 equals 9506."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1042-x=810, x=?",
+        "A": 232,
+        "pos": "1042-x=810, x=? The answer is 232 because 1042-810 equals 232."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "129+987=?",
+        "A": 1116,
+        "pos": "129+987=? The answer is 1116 because 129+987 equals 1116."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "459-x=362, x=?",
+        "A": 97,
+        "pos": "459-x=362, x=? The answer is 97 because 459-362 equals 97."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "738-631=?",
+        "A": 107,
+        "pos": "738-631=? The answer is 107 because 738-631 equals 107."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "393-230=?",
+        "A": 163,
+        "pos": "393-230=? The answer is 163 because 393-230 equals 163."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "65*38=?",
+        "A": 2470,
+        "pos": "65*38=? The answer is 2470 because 65*38 equals 2470."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "108/x=9, x=?",
+        "A": 12,
+        "pos": "108/x=9, x=? The answer is 12 because 108/9 equals 12."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "72-1=?",
+        "A": 71,
+        "pos": "72-1=? The answer is 71 because 72-1 equals 71."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "918-x=467, x=?",
+        "A": 451,
+        "pos": "918-x=467, x=? The answer is 451 because 918-467 equals 451."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "93*71=?",
+        "A": 6603,
+        "pos": "93*71=? The answer is 6603 because 93*71 equals 6603."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "36*84=?",
+        "A": 3024,
+        "pos": "36*84=? The answer is 3024 because 36*84 equals 3024."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-938=58, x=?",
+        "A": 996,
+        "pos": "x-938=58, x=? The answer is 996 because 58+938 equals 996."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "63-0=?",
+        "A": 63,
+        "pos": "63-0=? The answer is 63 because 63-0 equals 63."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "87*21=?",
+        "A": 1827,
+        "pos": "87*21=? The answer is 1827 because 87*21 equals 1827."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "412-167=?",
+        "A": 245,
+        "pos": "412-167=? The answer is 245 because 412-167 equals 245."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "335-x=271, x=?",
+        "A": 64,
+        "pos": "335-x=271, x=? The answer is 64 because 335-271 equals 64."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1353-x=986, x=?",
+        "A": 367,
+        "pos": "1353-x=986, x=? The answer is 367 because 1353-986 equals 367."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*9=504, x=?",
+        "A": 56,
+        "pos": "x*9=504, x=? The answer is 56 because 504/9 equals 56."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "84/12=?",
+        "A": 7,
+        "pos": "84/12=? The answer is 7 because 84/12 equals 7."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1340-x=799, x=?",
+        "A": 541,
+        "pos": "1340-x=799, x=? The answer is 541 because 1340-799 equals 541."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "2/x=1, x=?",
+        "A": 2,
+        "pos": "2/x=1, x=? The answer is 2 because 2/1 equals 2."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "788-157=?",
+        "A": 631,
+        "pos": "788-157=? The answer is 631 because 788-157 equals 631."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1242-x=937, x=?",
+        "A": 305,
+        "pos": "1242-x=937, x=? The answer is 305 because 1242-937 equals 305."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*6=96, x=?",
+        "A": 16,
+        "pos": "x*6=96, x=? The answer is 16 because 96/6 equals 16."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-636=586, x=?",
+        "A": 1222,
+        "pos": "x-636=586, x=? The answer is 1222 because 586+636 equals 1222."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "10/2=?",
+        "A": 5,
+        "pos": "10/2=? The answer is 5 because 10/2 equals 5."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "108/9=?",
+        "A": 12,
+        "pos": "108/9=? The answer is 12 because 108/9 equals 12."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "132/12=?",
+        "A": 11,
+        "pos": "132/12=? The answer is 11 because 132/12 equals 11."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "7-6=?",
+        "A": 1,
+        "pos": "7-6=? The answer is 1 because 7-6 equals 1."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-468=597, x=?",
+        "A": 1065,
+        "pos": "x-468=597, x=? The answer is 1065 because 597+468 equals 1065."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*9=279, x=?",
+        "A": 31,
+        "pos": "x*9=279, x=? The answer is 31 because 279/9 equals 31."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+612=1259, x=?",
+        "A": 647,
+        "pos": "x+612=1259, x=? The answer is 647 because 1259-612 equals 647."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "88/8=?",
+        "A": 11,
+        "pos": "88/8=? The answer is 11 because 88/8 equals 11."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "84/12=?",
+        "A": 7,
+        "pos": "84/12=? The answer is 7 because 84/12 equals 7."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "81/x=9, x=?",
+        "A": 9,
+        "pos": "81/x=9, x=? The answer is 9 because 81/9 equals 9."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*6=54, x=?",
+        "A": 9,
+        "pos": "x*6=54, x=? The answer is 9 because 54/6 equals 9."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1351-x=796, x=?",
+        "A": 555,
+        "pos": "1351-x=796, x=? The answer is 555 because 1351-796 equals 555."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "59*64=?",
+        "A": 3776,
+        "pos": "59*64=? The answer is 3776 because 59*64 equals 3776."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "8/1=?",
+        "A": 8,
+        "pos": "8/1=? The answer is 8 because 8/1 equals 8."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-639=725, x=?",
+        "A": 1364,
+        "pos": "x-639=725, x=? The answer is 1364 because 725+639 equals 1364."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "770+108=?",
+        "A": 878,
+        "pos": "770+108=? The answer is 878 because 770+108 equals 878."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "631+888=?",
+        "A": 1519,
+        "pos": "631+888=? The answer is 1519 because 631+888 equals 1519."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "6/x=6, x=?",
+        "A": 1,
+        "pos": "6/x=6, x=? The answer is 1 because 6/6 equals 1."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1654-x=664, x=?",
+        "A": 990,
+        "pos": "1654-x=664, x=? The answer is 990 because 1654-664 equals 990."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "965+166=?",
+        "A": 1131,
+        "pos": "965+166=? The answer is 1131 because 965+166 equals 1131."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1203-x=490, x=?",
+        "A": 713,
+        "pos": "1203-x=490, x=? The answer is 713 because 1203-490 equals 713."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "70/x=7, x=?",
+        "A": 10,
+        "pos": "70/x=7, x=? The answer is 10 because 70/7 equals 10."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "621-546=?",
+        "A": 75,
+        "pos": "621-546=? The answer is 75 because 621-546 equals 75."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*6=510, x=?",
+        "A": 85,
+        "pos": "x*6=510, x=? The answer is 85 because 510/6 equals 85."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "76*28=?",
+        "A": 2128,
+        "pos": "76*28=? The answer is 2128 because 76*28 equals 2128."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "435+839=?",
+        "A": 1274,
+        "pos": "435+839=? The answer is 1274 because 435+839 equals 1274."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "36/x=4, x=?",
+        "A": 9,
+        "pos": "36/x=4, x=? The answer is 9 because 36/4 equals 9."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1579-x=706, x=?",
+        "A": 873,
+        "pos": "1579-x=706, x=? The answer is 873 because 1579-706 equals 873."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "36/3=?",
+        "A": 12,
+        "pos": "36/3=? The answer is 12 because 36/3 equals 12."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "726+390=?",
+        "A": 1116,
+        "pos": "726+390=? The answer is 1116 because 726+390 equals 1116."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+99=811, x=?",
+        "A": 712,
+        "pos": "x+99=811, x=? The answer is 712 because 811-99 equals 712."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+765=1147, x=?",
+        "A": 382,
+        "pos": "x+765=1147, x=? The answer is 382 because 1147-765 equals 382."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "623+60=?",
+        "A": 683,
+        "pos": "623+60=? The answer is 683 because 623+60 equals 683."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+931=1476, x=?",
+        "A": 545,
+        "pos": "x+931=1476, x=? The answer is 545 because 1476-931 equals 545."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*6=240, x=?",
+        "A": 40,
+        "pos": "x*6=240, x=? The answer is 40 because 240/6 equals 40."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+715=1360, x=?",
+        "A": 645,
+        "pos": "x+715=1360, x=? The answer is 645 because 1360-715 equals 645."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "50/x=10, x=?",
+        "A": 5,
+        "pos": "50/x=10, x=? The answer is 5 because 50/10 equals 5."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*12=1068, x=?",
+        "A": 89,
+        "pos": "x*12=1068, x=? The answer is 89 because 1068/12 equals 89."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "44/x=11, x=?",
+        "A": 4,
+        "pos": "44/x=11, x=? The answer is 4 because 44/11 equals 4."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "57*80=?",
+        "A": 4560,
+        "pos": "57*80=? The answer is 4560 because 57*80 equals 4560."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+291=1015, x=?",
+        "A": 724,
+        "pos": "x+291=1015, x=? The answer is 724 because 1015-291 equals 724."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "329+173=?",
+        "A": 502,
+        "pos": "329+173=? The answer is 502 because 329+173 equals 502."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "9/x=1, x=?",
+        "A": 9,
+        "pos": "9/x=1, x=? The answer is 9 because 9/1 equals 9."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "771-433=?",
+        "A": 338,
+        "pos": "771-433=? The answer is 338 because 771-433 equals 338."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "26*49=?",
+        "A": 1274,
+        "pos": "26*49=? The answer is 1274 because 26*49 equals 1274."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "33/3=?",
+        "A": 11,
+        "pos": "33/3=? The answer is 11 because 33/3 equals 11."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-307=725, x=?",
+        "A": 1032,
+        "pos": "x-307=725, x=? The answer is 1032 because 725+307 equals 1032."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+42=325, x=?",
+        "A": 283,
+        "pos": "x+42=325, x=? The answer is 283 because 325-42 equals 283."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "89-27=?",
+        "A": 62,
+        "pos": "89-27=? The answer is 62 because 89-27 equals 62."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "635-x=338, x=?",
+        "A": 297,
+        "pos": "635-x=338, x=? The answer is 297 because 635-338 equals 297."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1060-x=739, x=?",
+        "A": 321,
+        "pos": "1060-x=739, x=? The answer is 321 because 1060-739 equals 321."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "362-249=?",
+        "A": 113,
+        "pos": "362-249=? The answer is 113 because 362-249 equals 113."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-916=752, x=?",
+        "A": 1668,
+        "pos": "x-916=752, x=? The answer is 1668 because 752+916 equals 1668."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "48/8=?",
+        "A": 6,
+        "pos": "48/8=? The answer is 6 because 48/8 equals 6."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "0/9=?",
+        "A": 0,
+        "pos": "0/9=? The answer is 0 because 0/9 equals 0."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1923-x=934, x=?",
+        "A": 989,
+        "pos": "1923-x=934, x=? The answer is 989 because 1923-934 equals 989."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-369=44, x=?",
+        "A": 413,
+        "pos": "x-369=44, x=? The answer is 413 because 44+369 equals 413."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+142=507, x=?",
+        "A": 365,
+        "pos": "x+142=507, x=? The answer is 365 because 507-142 equals 365."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "3/1=?",
+        "A": 3,
+        "pos": "3/1=? The answer is 3 because 3/1 equals 3."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "383-305=?",
+        "A": 78,
+        "pos": "383-305=? The answer is 78 because 383-305 equals 78."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "442-122=?",
+        "A": 320,
+        "pos": "442-122=? The answer is 320 because 442-122 equals 320."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "42/x=7, x=?",
+        "A": 6,
+        "pos": "42/x=7, x=? The answer is 6 because 42/7 equals 6."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "46*10=?",
+        "A": 460,
+        "pos": "46*10=? The answer is 460 because 46*10 equals 460."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1012-x=782, x=?",
+        "A": 230,
+        "pos": "1012-x=782, x=? The answer is 230 because 1012-782 equals 230."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "40/x=4, x=?",
+        "A": 10,
+        "pos": "40/x=4, x=? The answer is 10 because 40/4 equals 10."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "10/1=?",
+        "A": 10,
+        "pos": "10/1=? The answer is 10 because 10/1 equals 10."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "871+184=?",
+        "A": 1055,
+        "pos": "871+184=? The answer is 1055 because 871+184 equals 1055."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*5=85, x=?",
+        "A": 17,
+        "pos": "x*5=85, x=? The answer is 17 because 85/5 equals 17."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "9/x=9, x=?",
+        "A": 1,
+        "pos": "9/x=9, x=? The answer is 1 because 9/9 equals 1."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "17*97=?",
+        "A": 1649,
+        "pos": "17*97=? The answer is 1649 because 17*97 equals 1649."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+880=1104, x=?",
+        "A": 224,
+        "pos": "x+880=1104, x=? The answer is 224 because 1104-880 equals 224."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "4/4=?",
+        "A": 1,
+        "pos": "4/4=? The answer is 1 because 4/4 equals 1."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "90/x=9, x=?",
+        "A": 10,
+        "pos": "90/x=9, x=? The answer is 10 because 90/9 equals 10."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1500-x=514, x=?",
+        "A": 986,
+        "pos": "1500-x=514, x=? The answer is 986 because 1500-514 equals 986."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-279=374, x=?",
+        "A": 653,
+        "pos": "x-279=374, x=? The answer is 653 because 374+279 equals 653."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "706-313=?",
+        "A": 393,
+        "pos": "706-313=? The answer is 393 because 706-313 equals 393."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*3=192, x=?",
+        "A": 64,
+        "pos": "x*3=192, x=? The answer is 64 because 192/3 equals 64."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "654+834=?",
+        "A": 1488,
+        "pos": "654+834=? The answer is 1488 because 654+834 equals 1488."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*10=260, x=?",
+        "A": 26,
+        "pos": "x*10=260, x=? The answer is 26 because 260/10 equals 26."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1079-x=455, x=?",
+        "A": 624,
+        "pos": "1079-x=455, x=? The answer is 624 because 1079-455 equals 624."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+275=348, x=?",
+        "A": 73,
+        "pos": "x+275=348, x=? The answer is 73 because 348-275 equals 73."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "329-34=?",
+        "A": 295,
+        "pos": "329-34=? The answer is 295 because 329-34 equals 295."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1071-x=438, x=?",
+        "A": 633,
+        "pos": "1071-x=438, x=? The answer is 633 because 1071-438 equals 633."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "740-660=?",
+        "A": 80,
+        "pos": "740-660=? The answer is 80 because 740-660 equals 80."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "178-114=?",
+        "A": 64,
+        "pos": "178-114=? The answer is 64 because 178-114 equals 64."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*2=128, x=?",
+        "A": 64,
+        "pos": "x*2=128, x=? The answer is 64 because 128/2 equals 64."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "941-33=?",
+        "A": 908,
+        "pos": "941-33=? The answer is 908 because 941-33 equals 908."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1701-x=973, x=?",
+        "A": 728,
+        "pos": "1701-x=973, x=? The answer is 728 because 1701-973 equals 728."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "813+479=?",
+        "A": 1292,
+        "pos": "813+479=? The answer is 1292 because 813+479 equals 1292."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "679-x=230, x=?",
+        "A": 449,
+        "pos": "679-x=230, x=? The answer is 449 because 679-230 equals 449."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "20*87=?",
+        "A": 1740,
+        "pos": "20*87=? The answer is 1740 because 20*87 equals 1740."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "25/x=5, x=?",
+        "A": 5,
+        "pos": "25/x=5, x=? The answer is 5 because 25/5 equals 5."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+796=1377, x=?",
+        "A": 581,
+        "pos": "x+796=1377, x=? The answer is 581 because 1377-796 equals 581."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+599=1031, x=?",
+        "A": 432,
+        "pos": "x+599=1031, x=? The answer is 432 because 1031-599 equals 432."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "24/x=3, x=?",
+        "A": 8,
+        "pos": "24/x=3, x=? The answer is 8 because 24/3 equals 8."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "91*32=?",
+        "A": 2912,
+        "pos": "91*32=? The answer is 2912 because 91*32 equals 2912."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-545=16, x=?",
+        "A": 561,
+        "pos": "x-545=16, x=? The answer is 561 because 16+545 equals 561."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "197+987=?",
+        "A": 1184,
+        "pos": "197+987=? The answer is 1184 because 197+987 equals 1184."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*11=847, x=?",
+        "A": 77,
+        "pos": "x*11=847, x=? The answer is 77 because 847/11 equals 77."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-454=517, x=?",
+        "A": 971,
+        "pos": "x-454=517, x=? The answer is 971 because 517+454 equals 971."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "867+866=?",
+        "A": 1733,
+        "pos": "867+866=? The answer is 1733 because 867+866 equals 1733."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "12/x=3, x=?",
+        "A": 4,
+        "pos": "12/x=3, x=? The answer is 4 because 12/3 equals 4."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-600=248, x=?",
+        "A": 848,
+        "pos": "x-600=248, x=? The answer is 848 because 248+600 equals 848."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+279=364, x=?",
+        "A": 85,
+        "pos": "x+279=364, x=? The answer is 85 because 364-279 equals 85."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "698+581=?",
+        "A": 1279,
+        "pos": "698+581=? The answer is 1279 because 698+581 equals 1279."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "366-x=306, x=?",
+        "A": 60,
+        "pos": "366-x=306, x=? The answer is 60 because 366-306 equals 60."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "781+905=?",
+        "A": 1686,
+        "pos": "781+905=? The answer is 1686 because 781+905 equals 1686."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-916=944, x=?",
+        "A": 1860,
+        "pos": "x-916=944, x=? The answer is 1860 because 944+916 equals 1860."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "11*63=?",
+        "A": 693,
+        "pos": "11*63=? The answer is 693 because 11*63 equals 693."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1048-x=639, x=?",
+        "A": 409,
+        "pos": "1048-x=639, x=? The answer is 409 because 1048-639 equals 409."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "18*97=?",
+        "A": 1746,
+        "pos": "18*97=? The answer is 1746 because 18*97 equals 1746."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*3=45, x=?",
+        "A": 15,
+        "pos": "x*3=45, x=? The answer is 15 because 45/3 equals 15."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "551-239=?",
+        "A": 312,
+        "pos": "551-239=? The answer is 312 because 551-239 equals 312."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "953+665=?",
+        "A": 1618,
+        "pos": "953+665=? The answer is 1618 because 953+665 equals 1618."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "80/x=10, x=?",
+        "A": 8,
+        "pos": "80/x=10, x=? The answer is 8 because 80/10 equals 8."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-102=760, x=?",
+        "A": 862,
+        "pos": "x-102=760, x=? The answer is 862 because 760+102 equals 862."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+166=1126, x=?",
+        "A": 960,
+        "pos": "x+166=1126, x=? The answer is 960 because 1126-166 equals 960."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*5=415, x=?",
+        "A": 83,
+        "pos": "x*5=415, x=? The answer is 83 because 415/5 equals 83."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "355+370=?",
+        "A": 725,
+        "pos": "355+370=? The answer is 725 because 355+370 equals 725."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*12=792, x=?",
+        "A": 66,
+        "pos": "x*12=792, x=? The answer is 66 because 792/12 equals 66."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "132/x=11, x=?",
+        "A": 12,
+        "pos": "132/x=11, x=? The answer is 12 because 132/11 equals 12."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "920-5=?",
+        "A": 915,
+        "pos": "920-5=? The answer is 915 because 920-5 equals 915."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "8/x=1, x=?",
+        "A": 8,
+        "pos": "8/x=1, x=? The answer is 8 because 8/1 equals 8."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "0/7=?",
+        "A": 0,
+        "pos": "0/7=? The answer is 0 because 0/7 equals 0."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-308=947, x=?",
+        "A": 1255,
+        "pos": "x-308=947, x=? The answer is 1255 because 947+308 equals 1255."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "64/8=?",
+        "A": 8,
+        "pos": "64/8=? The answer is 8 because 64/8 equals 8."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "11-3=?",
+        "A": 8,
+        "pos": "11-3=? The answer is 8 because 11-3 equals 8."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+47=293, x=?",
+        "A": 246,
+        "pos": "x+47=293, x=? The answer is 246 because 293-47 equals 246."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*7=98, x=?",
+        "A": 14,
+        "pos": "x*7=98, x=? The answer is 14 because 98/7 equals 14."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "788+216=?",
+        "A": 1004,
+        "pos": "788+216=? The answer is 1004 because 788+216 equals 1004."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1841-x=993, x=?",
+        "A": 848,
+        "pos": "1841-x=993, x=? The answer is 848 because 1841-993 equals 848."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*8=416, x=?",
+        "A": 52,
+        "pos": "x*8=416, x=? The answer is 52 because 416/8 equals 52."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "81*46=?",
+        "A": 3726,
+        "pos": "81*46=? The answer is 3726 because 81*46 equals 3726."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+318=497, x=?",
+        "A": 179,
+        "pos": "x+318=497, x=? The answer is 179 because 497-318 equals 179."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "60/10=?",
+        "A": 6,
+        "pos": "60/10=? The answer is 6 because 60/10 equals 6."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "3/x=3, x=?",
+        "A": 1,
+        "pos": "3/x=3, x=? The answer is 1 because 3/3 equals 1."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "571-60=?",
+        "A": 511,
+        "pos": "571-60=? The answer is 511 because 571-60 equals 511."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+893=1308, x=?",
+        "A": 415,
+        "pos": "x+893=1308, x=? The answer is 415 because 1308-893 equals 415."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "33/x=11, x=?",
+        "A": 3,
+        "pos": "33/x=11, x=? The answer is 3 because 33/11 equals 3."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "44/11=?",
+        "A": 4,
+        "pos": "44/11=? The answer is 4 because 44/11 equals 4."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*8=688, x=?",
+        "A": 86,
+        "pos": "x*8=688, x=? The answer is 86 because 688/8 equals 86."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "132/x=12, x=?",
+        "A": 11,
+        "pos": "132/x=12, x=? The answer is 11 because 132/12 equals 11."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "7/x=7, x=?",
+        "A": 1,
+        "pos": "7/x=7, x=? The answer is 1 because 7/7 equals 1."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*9=846, x=?",
+        "A": 94,
+        "pos": "x*9=846, x=? The answer is 94 because 846/9 equals 94."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "56/7=?",
+        "A": 8,
+        "pos": "56/7=? The answer is 8 because 56/7 equals 8."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*9=270, x=?",
+        "A": 30,
+        "pos": "x*9=270, x=? The answer is 30 because 270/9 equals 30."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-536=278, x=?",
+        "A": 814,
+        "pos": "x-536=278, x=? The answer is 814 because 278+536 equals 814."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "20*41=?",
+        "A": 820,
+        "pos": "20*41=? The answer is 820 because 20*41 equals 820."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "25*78=?",
+        "A": 1950,
+        "pos": "25*78=? The answer is 1950 because 25*78 equals 1950."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "67+626=?",
+        "A": 693,
+        "pos": "67+626=? The answer is 693 because 67+626 equals 693."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "892+424=?",
+        "A": 1316,
+        "pos": "892+424=? The answer is 1316 because 892+424 equals 1316."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "341-142=?",
+        "A": 199,
+        "pos": "341-142=? The answer is 199 because 341-142 equals 199."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "303+656=?",
+        "A": 959,
+        "pos": "303+656=? The answer is 959 because 303+656 equals 959."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*3=48, x=?",
+        "A": 16,
+        "pos": "x*3=48, x=? The answer is 16 because 48/3 equals 16."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*7=560, x=?",
+        "A": 80,
+        "pos": "x*7=560, x=? The answer is 80 because 560/7 equals 80."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "47*51=?",
+        "A": 2397,
+        "pos": "47*51=? The answer is 2397 because 47*51 equals 2397."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-595=936, x=?",
+        "A": 1531,
+        "pos": "x-595=936, x=? The answer is 1531 because 936+595 equals 1531."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "0/11=?",
+        "A": 0,
+        "pos": "0/11=? The answer is 0 because 0/11 equals 0."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "37*83=?",
+        "A": 3071,
+        "pos": "37*83=? The answer is 3071 because 37*83 equals 3071."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "830+743=?",
+        "A": 1573,
+        "pos": "830+743=? The answer is 1573 because 830+743 equals 1573."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "15/x=5, x=?",
+        "A": 3,
+        "pos": "15/x=5, x=? The answer is 3 because 15/5 equals 3."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "40/4=?",
+        "A": 10,
+        "pos": "40/4=? The answer is 10 because 40/4 equals 10."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "99/x=9, x=?",
+        "A": 11,
+        "pos": "99/x=9, x=? The answer is 11 because 99/9 equals 11."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "159+596=?",
+        "A": 755,
+        "pos": "159+596=? The answer is 755 because 159+596 equals 755."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "81*12=?",
+        "A": 972,
+        "pos": "81*12=? The answer is 972 because 81*12 equals 972."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "20/x=10, x=?",
+        "A": 2,
+        "pos": "20/x=10, x=? The answer is 2 because 20/10 equals 2."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*4=140, x=?",
+        "A": 35,
+        "pos": "x*4=140, x=? The answer is 35 because 140/4 equals 35."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "30/10=?",
+        "A": 3,
+        "pos": "30/10=? The answer is 3 because 30/10 equals 3."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "408-177=?",
+        "A": 231,
+        "pos": "408-177=? The answer is 231 because 408-177 equals 231."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "64/8=?",
+        "A": 8,
+        "pos": "64/8=? The answer is 8 because 64/8 equals 8."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-470=214, x=?",
+        "A": 684,
+        "pos": "x-470=214, x=? The answer is 684 because 214+470 equals 684."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "38*7=?",
+        "A": 266,
+        "pos": "38*7=? The answer is 266 because 38*7 equals 266."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "67*68=?",
+        "A": 4556,
+        "pos": "67*68=? The answer is 4556 because 67*68 equals 4556."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "282-272=?",
+        "A": 10,
+        "pos": "282-272=? The answer is 10 because 282-272 equals 10."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "16*84=?",
+        "A": 1344,
+        "pos": "16*84=? The answer is 1344 because 16*84 equals 1344."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "3*43=?",
+        "A": 129,
+        "pos": "3*43=? The answer is 129 because 3*43 equals 129."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "6/1=?",
+        "A": 6,
+        "pos": "6/1=? The answer is 6 because 6/1 equals 6."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "686-x=293, x=?",
+        "A": 393,
+        "pos": "686-x=293, x=? The answer is 393 because 686-293 equals 393."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "946-x=461, x=?",
+        "A": 485,
+        "pos": "946-x=461, x=? The answer is 485 because 946-461 equals 485."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "28/4=?",
+        "A": 7,
+        "pos": "28/4=? The answer is 7 because 28/4 equals 7."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "387-271=?",
+        "A": 116,
+        "pos": "387-271=? The answer is 116 because 387-271 equals 116."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+18=175, x=?",
+        "A": 157,
+        "pos": "x+18=175, x=? The answer is 157 because 175-18 equals 157."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "44/x=4, x=?",
+        "A": 11,
+        "pos": "44/x=4, x=? The answer is 11 because 44/4 equals 11."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "16/x=8, x=?",
+        "A": 2,
+        "pos": "16/x=8, x=? The answer is 2 because 16/8 equals 2."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+519=1496, x=?",
+        "A": 977,
+        "pos": "x+519=1496, x=? The answer is 977 because 1496-519 equals 977."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "995+71=?",
+        "A": 1066,
+        "pos": "995+71=? The answer is 1066 because 995+71 equals 1066."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "964+232=?",
+        "A": 1196,
+        "pos": "964+232=? The answer is 1196 because 964+232 equals 1196."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "704-28=?",
+        "A": 676,
+        "pos": "704-28=? The answer is 676 because 704-28 equals 676."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "12/x=6, x=?",
+        "A": 2,
+        "pos": "12/x=6, x=? The answer is 2 because 12/6 equals 2."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+709=1406, x=?",
+        "A": 697,
+        "pos": "x+709=1406, x=? The answer is 697 because 1406-709 equals 697."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "36*85=?",
+        "A": 3060,
+        "pos": "36*85=? The answer is 3060 because 36*85 equals 3060."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*2=88, x=?",
+        "A": 44,
+        "pos": "x*2=88, x=? The answer is 44 because 88/2 equals 44."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "99/x=9, x=?",
+        "A": 11,
+        "pos": "99/x=9, x=? The answer is 11 because 99/9 equals 11."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-599=362, x=?",
+        "A": 961,
+        "pos": "x-599=362, x=? The answer is 961 because 362+599 equals 961."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "953-x=701, x=?",
+        "A": 252,
+        "pos": "953-x=701, x=? The answer is 252 because 953-701 equals 252."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "583+358=?",
+        "A": 941,
+        "pos": "583+358=? The answer is 941 because 583+358 equals 941."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "11/11=?",
+        "A": 1,
+        "pos": "11/11=? The answer is 1 because 11/11 equals 1."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*8=208, x=?",
+        "A": 26,
+        "pos": "x*8=208, x=? The answer is 26 because 208/8 equals 26."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1004-x=274, x=?",
+        "A": 730,
+        "pos": "1004-x=274, x=? The answer is 730 because 1004-274 equals 730."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*2=42, x=?",
+        "A": 21,
+        "pos": "x*2=42, x=? The answer is 21 because 42/2 equals 21."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1607-x=679, x=?",
+        "A": 928,
+        "pos": "1607-x=679, x=? The answer is 928 because 1607-679 equals 928."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "63/7=?",
+        "A": 9,
+        "pos": "63/7=? The answer is 9 because 63/7 equals 9."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "0/3=?",
+        "A": 0,
+        "pos": "0/3=? The answer is 0 because 0/3 equals 0."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "70/x=10, x=?",
+        "A": 7,
+        "pos": "70/x=10, x=? The answer is 7 because 70/10 equals 7."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "42/x=7, x=?",
+        "A": 6,
+        "pos": "42/x=7, x=? The answer is 6 because 42/7 equals 6."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "91-0=?",
+        "A": 91,
+        "pos": "91-0=? The answer is 91 because 91-0 equals 91."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*10=670, x=?",
+        "A": 67,
+        "pos": "x*10=670, x=? The answer is 67 because 670/10 equals 67."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "503+335=?",
+        "A": 838,
+        "pos": "503+335=? The answer is 838 because 503+335 equals 838."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "18+542=?",
+        "A": 560,
+        "pos": "18+542=? The answer is 560 because 18+542 equals 560."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "45/5=?",
+        "A": 9,
+        "pos": "45/5=? The answer is 9 because 45/5 equals 9."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1363-x=479, x=?",
+        "A": 884,
+        "pos": "1363-x=479, x=? The answer is 884 because 1363-479 equals 884."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*4=288, x=?",
+        "A": 72,
+        "pos": "x*4=288, x=? The answer is 72 because 288/4 equals 72."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "67*64=?",
+        "A": 4288,
+        "pos": "67*64=? The answer is 4288 because 67*64 equals 4288."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*4=112, x=?",
+        "A": 28,
+        "pos": "x*4=112, x=? The answer is 28 because 112/4 equals 28."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "497-484=?",
+        "A": 13,
+        "pos": "497-484=? The answer is 13 because 497-484 equals 13."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1194-x=694, x=?",
+        "A": 500,
+        "pos": "1194-x=694, x=? The answer is 500 because 1194-694 equals 500."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "387-268=?",
+        "A": 119,
+        "pos": "387-268=? The answer is 119 because 387-268 equals 119."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*6=222, x=?",
+        "A": 37,
+        "pos": "x*6=222, x=? The answer is 37 because 222/6 equals 37."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "83*58=?",
+        "A": 4814,
+        "pos": "83*58=? The answer is 4814 because 83*58 equals 4814."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1591-x=709, x=?",
+        "A": 882,
+        "pos": "1591-x=709, x=? The answer is 882 because 1591-709 equals 882."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "36/9=?",
+        "A": 4,
+        "pos": "36/9=? The answer is 4 because 36/9 equals 4."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "45*35=?",
+        "A": 1575,
+        "pos": "45*35=? The answer is 1575 because 45*35 equals 1575."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-158=688, x=?",
+        "A": 846,
+        "pos": "x-158=688, x=? The answer is 846 because 688+158 equals 846."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-591=994, x=?",
+        "A": 1585,
+        "pos": "x-591=994, x=? The answer is 1585 because 994+591 equals 1585."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "400-393=?",
+        "A": 7,
+        "pos": "400-393=? The answer is 7 because 400-393 equals 7."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "68*76=?",
+        "A": 5168,
+        "pos": "68*76=? The answer is 5168 because 68*76 equals 5168."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "503+917=?",
+        "A": 1420,
+        "pos": "503+917=? The answer is 1420 because 503+917 equals 1420."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+406=508, x=?",
+        "A": 102,
+        "pos": "x+406=508, x=? The answer is 102 because 508-406 equals 102."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "957-499=?",
+        "A": 458,
+        "pos": "957-499=? The answer is 458 because 957-499 equals 458."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "12/x=4, x=?",
+        "A": 3,
+        "pos": "12/x=4, x=? The answer is 3 because 12/4 equals 3."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "323+992=?",
+        "A": 1315,
+        "pos": "323+992=? The answer is 1315 because 323+992 equals 1315."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "42/x=7, x=?",
+        "A": 6,
+        "pos": "42/x=7, x=? The answer is 6 because 42/7 equals 6."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "80/8=?",
+        "A": 10,
+        "pos": "80/8=? The answer is 10 because 80/8 equals 10."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "72/x=6, x=?",
+        "A": 12,
+        "pos": "72/x=6, x=? The answer is 12 because 72/6 equals 12."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "72/x=9, x=?",
+        "A": 8,
+        "pos": "72/x=9, x=? The answer is 8 because 72/9 equals 8."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "55*36=?",
+        "A": 1980,
+        "pos": "55*36=? The answer is 1980 because 55*36 equals 1980."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1658-x=907, x=?",
+        "A": 751,
+        "pos": "1658-x=907, x=? The answer is 751 because 1658-907 equals 751."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "41*71=?",
+        "A": 2911,
+        "pos": "41*71=? The answer is 2911 because 41*71 equals 2911."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "671+143=?",
+        "A": 814,
+        "pos": "671+143=? The answer is 814 because 671+143 equals 814."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "22/x=11, x=?",
+        "A": 2,
+        "pos": "22/x=11, x=? The answer is 2 because 22/11 equals 2."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "16/2=?",
+        "A": 8,
+        "pos": "16/2=? The answer is 8 because 16/2 equals 8."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-214=788, x=?",
+        "A": 1002,
+        "pos": "x-214=788, x=? The answer is 1002 because 788+214 equals 1002."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-134=520, x=?",
+        "A": 654,
+        "pos": "x-134=520, x=? The answer is 654 because 520+134 equals 654."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*6=300, x=?",
+        "A": 50,
+        "pos": "x*6=300, x=? The answer is 50 because 300/6 equals 50."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "28/x=7, x=?",
+        "A": 4,
+        "pos": "28/x=7, x=? The answer is 4 because 28/7 equals 4."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "18*80=?",
+        "A": 1440,
+        "pos": "18*80=? The answer is 1440 because 18*80 equals 1440."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "73*71=?",
+        "A": 5183,
+        "pos": "73*71=? The answer is 5183 because 73*71 equals 5183."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "6/6=?",
+        "A": 1,
+        "pos": "6/6=? The answer is 1 because 6/6 equals 1."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "43*27=?",
+        "A": 1161,
+        "pos": "43*27=? The answer is 1161 because 43*27 equals 1161."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "31-20=?",
+        "A": 11,
+        "pos": "31-20=? The answer is 11 because 31-20 equals 11."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*8=768, x=?",
+        "A": 96,
+        "pos": "x*8=768, x=? The answer is 96 because 768/8 equals 96."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "55/5=?",
+        "A": 11,
+        "pos": "55/5=? The answer is 11 because 55/5 equals 11."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+935=1589, x=?",
+        "A": 654,
+        "pos": "x+935=1589, x=? The answer is 654 because 1589-935 equals 654."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "6*47=?",
+        "A": 282,
+        "pos": "6*47=? The answer is 282 because 6*47 equals 282."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*2=180, x=?",
+        "A": 90,
+        "pos": "x*2=180, x=? The answer is 90 because 180/2 equals 90."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "938-x=403, x=?",
+        "A": 535,
+        "pos": "938-x=403, x=? The answer is 535 because 938-403 equals 535."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "511-105=?",
+        "A": 406,
+        "pos": "511-105=? The answer is 406 because 511-105 equals 406."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "118+340=?",
+        "A": 458,
+        "pos": "118+340=? The answer is 458 because 118+340 equals 458."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1152-x=525, x=?",
+        "A": 627,
+        "pos": "1152-x=525, x=? The answer is 627 because 1152-525 equals 627."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+946=1792, x=?",
+        "A": 846,
+        "pos": "x+946=1792, x=? The answer is 846 because 1792-946 equals 846."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-224=689, x=?",
+        "A": 913,
+        "pos": "x-224=689, x=? The answer is 913 because 689+224 equals 913."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "727-465=?",
+        "A": 262,
+        "pos": "727-465=? The answer is 262 because 727-465 equals 262."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*9=288, x=?",
+        "A": 32,
+        "pos": "x*9=288, x=? The answer is 32 because 288/9 equals 32."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "938-83=?",
+        "A": 855,
+        "pos": "938-83=? The answer is 855 because 938-83 equals 855."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "743+267=?",
+        "A": 1010,
+        "pos": "743+267=? The answer is 1010 because 743+267 equals 1010."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "47*78=?",
+        "A": 3666,
+        "pos": "47*78=? The answer is 3666 because 47*78 equals 3666."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*8=632, x=?",
+        "A": 79,
+        "pos": "x*8=632, x=? The answer is 79 because 632/8 equals 79."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "10/1=?",
+        "A": 10,
+        "pos": "10/1=? The answer is 10 because 10/1 equals 10."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "474+725=?",
+        "A": 1199,
+        "pos": "474+725=? The answer is 1199 because 474+725 equals 1199."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "678+334=?",
+        "A": 1012,
+        "pos": "678+334=? The answer is 1012 because 678+334 equals 1012."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "54/x=6, x=?",
+        "A": 9,
+        "pos": "54/x=6, x=? The answer is 9 because 54/6 equals 9."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-731=485, x=?",
+        "A": 1216,
+        "pos": "x-731=485, x=? The answer is 1216 because 485+731 equals 1216."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "840-180=?",
+        "A": 660,
+        "pos": "840-180=? The answer is 660 because 840-180 equals 660."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "120/x=12, x=?",
+        "A": 10,
+        "pos": "120/x=12, x=? The answer is 10 because 120/12 equals 10."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-661=707, x=?",
+        "A": 1368,
+        "pos": "x-661=707, x=? The answer is 1368 because 707+661 equals 1368."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "9/3=?",
+        "A": 3,
+        "pos": "9/3=? The answer is 3 because 9/3 equals 3."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+445=1166, x=?",
+        "A": 721,
+        "pos": "x+445=1166, x=? The answer is 721 because 1166-445 equals 721."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "64/x=8, x=?",
+        "A": 8,
+        "pos": "64/x=8, x=? The answer is 8 because 64/8 equals 8."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-829=458, x=?",
+        "A": 1287,
+        "pos": "x-829=458, x=? The answer is 1287 because 458+829 equals 1287."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "803+620=?",
+        "A": 1423,
+        "pos": "803+620=? The answer is 1423 because 803+620 equals 1423."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-573=323, x=?",
+        "A": 896,
+        "pos": "x-573=323, x=? The answer is 896 because 323+573 equals 896."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "425+460=?",
+        "A": 885,
+        "pos": "425+460=? The answer is 885 because 425+460 equals 885."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1052-x=178, x=?",
+        "A": 874,
+        "pos": "1052-x=178, x=? The answer is 874 because 1052-178 equals 874."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "18/6=?",
+        "A": 3,
+        "pos": "18/6=? The answer is 3 because 18/6 equals 3."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "599-x=312, x=?",
+        "A": 287,
+        "pos": "599-x=312, x=? The answer is 287 because 599-312 equals 287."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "81*15=?",
+        "A": 1215,
+        "pos": "81*15=? The answer is 1215 because 81*15 equals 1215."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "110/11=?",
+        "A": 10,
+        "pos": "110/11=? The answer is 10 because 110/11 equals 10."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*5=320, x=?",
+        "A": 64,
+        "pos": "x*5=320, x=? The answer is 64 because 320/5 equals 64."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "740+357=?",
+        "A": 1097,
+        "pos": "740+357=? The answer is 1097 because 740+357 equals 1097."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "56/x=7, x=?",
+        "A": 8,
+        "pos": "56/x=7, x=? The answer is 8 because 56/7 equals 8."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "108/9=?",
+        "A": 12,
+        "pos": "108/9=? The answer is 12 because 108/9 equals 12."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1384-x=450, x=?",
+        "A": 934,
+        "pos": "1384-x=450, x=? The answer is 934 because 1384-450 equals 934."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "4*47=?",
+        "A": 188,
+        "pos": "4*47=? The answer is 188 because 4*47 equals 188."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "694-505=?",
+        "A": 189,
+        "pos": "694-505=? The answer is 189 because 694-505 equals 189."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "55/x=11, x=?",
+        "A": 5,
+        "pos": "55/x=11, x=? The answer is 5 because 55/11 equals 5."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "939-336=?",
+        "A": 603,
+        "pos": "939-336=? The answer is 603 because 939-336 equals 603."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "218+846=?",
+        "A": 1064,
+        "pos": "218+846=? The answer is 1064 because 218+846 equals 1064."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "713+508=?",
+        "A": 1221,
+        "pos": "713+508=? The answer is 1221 because 713+508 equals 1221."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "382-14=?",
+        "A": 368,
+        "pos": "382-14=? The answer is 368 because 382-14 equals 368."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+823=914, x=?",
+        "A": 91,
+        "pos": "x+823=914, x=? The answer is 91 because 914-823 equals 91."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "6/x=1, x=?",
+        "A": 6,
+        "pos": "6/x=1, x=? The answer is 6 because 6/1 equals 6."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "89+173=?",
+        "A": 262,
+        "pos": "89+173=? The answer is 262 because 89+173 equals 262."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+412=550, x=?",
+        "A": 138,
+        "pos": "x+412=550, x=? The answer is 138 because 550-412 equals 138."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+758=1322, x=?",
+        "A": 564,
+        "pos": "x+758=1322, x=? The answer is 564 because 1322-758 equals 564."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+820=1148, x=?",
+        "A": 328,
+        "pos": "x+820=1148, x=? The answer is 328 because 1148-820 equals 328."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "341-109=?",
+        "A": 232,
+        "pos": "341-109=? The answer is 232 because 341-109 equals 232."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "489+353=?",
+        "A": 842,
+        "pos": "489+353=? The answer is 842 because 489+353 equals 842."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1541-x=576, x=?",
+        "A": 965,
+        "pos": "1541-x=576, x=? The answer is 965 because 1541-576 equals 965."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*5=140, x=?",
+        "A": 28,
+        "pos": "x*5=140, x=? The answer is 28 because 140/5 equals 28."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+635=644, x=?",
+        "A": 9,
+        "pos": "x+635=644, x=? The answer is 9 because 644-635 equals 9."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-948=875, x=?",
+        "A": 1823,
+        "pos": "x-948=875, x=? The answer is 1823 because 875+948 equals 1823."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "73*37=?",
+        "A": 2701,
+        "pos": "73*37=? The answer is 2701 because 73*37 equals 2701."
+    },
+    {
+        "type": "x_plus_b_eq_c",
+        "Q": "x+937=1802, x=?",
+        "A": 865,
+        "pos": "x+937=1802, x=? The answer is 865 because 1802-937 equals 865."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-955=648, x=?",
+        "A": 1603,
+        "pos": "x-955=648, x=? The answer is 1603 because 648+955 equals 1603."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "112-34=?",
+        "A": 78,
+        "pos": "112-34=? The answer is 78 because 112-34 equals 78."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "68*71=?",
+        "A": 4828,
+        "pos": "68*71=? The answer is 4828 because 68*71 equals 4828."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "9/x=1, x=?",
+        "A": 9,
+        "pos": "9/x=1, x=? The answer is 9 because 9/1 equals 9."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*4=40, x=?",
+        "A": 10,
+        "pos": "x*4=40, x=? The answer is 10 because 40/4 equals 10."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "929-x=440, x=?",
+        "A": 489,
+        "pos": "929-x=440, x=? The answer is 489 because 929-440 equals 489."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "16*16=?",
+        "A": 256,
+        "pos": "16*16=? The answer is 256 because 16*16 equals 256."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "3/x=1, x=?",
+        "A": 3,
+        "pos": "3/x=1, x=? The answer is 3 because 3/1 equals 3."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "84*84=?",
+        "A": 7056,
+        "pos": "84*84=? The answer is 7056 because 84*84 equals 7056."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "260-260=?",
+        "A": 0,
+        "pos": "260-260=? The answer is 0 because 260-260 equals 0."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "24/x=8, x=?",
+        "A": 3,
+        "pos": "24/x=8, x=? The answer is 3 because 24/8 equals 3."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "252-x=238, x=?",
+        "A": 14,
+        "pos": "252-x=238, x=? The answer is 14 because 252-238 equals 14."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "598-177=?",
+        "A": 421,
+        "pos": "598-177=? The answer is 421 because 598-177 equals 421."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-177=808, x=?",
+        "A": 985,
+        "pos": "x-177=808, x=? The answer is 985 because 808+177 equals 985."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "95*63=?",
+        "A": 5985,
+        "pos": "95*63=? The answer is 5985 because 95*63 equals 5985."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "383-145=?",
+        "A": 238,
+        "pos": "383-145=? The answer is 238 because 383-145 equals 238."
+    },
+    {
+        "type": "x_times_b_eq_c",
+        "Q": "x*8=408, x=?",
+        "A": 51,
+        "pos": "x*8=408, x=? The answer is 51 because 408/8 equals 51."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-510=972, x=?",
+        "A": 1482,
+        "pos": "x-510=972, x=? The answer is 1482 because 972+510 equals 1482."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "10/x=5, x=?",
+        "A": 2,
+        "pos": "10/x=5, x=? The answer is 2 because 10/5 equals 2."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-319=249, x=?",
+        "A": 568,
+        "pos": "x-319=249, x=? The answer is 568 because 249+319 equals 568."
+    },
+    {
+        "type": "b_minus_x_eq_c",
+        "Q": "1493-x=553, x=?",
+        "A": 940,
+        "pos": "1493-x=553, x=? The answer is 940 because 1493-553 equals 940."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "37*45=?",
+        "A": 1665,
+        "pos": "37*45=? The answer is 1665 because 37*45 equals 1665."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "30*75=?",
+        "A": 2250,
+        "pos": "30*75=? The answer is 2250 because 30*75 equals 2250."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "96/x=12, x=?",
+        "A": 8,
+        "pos": "96/x=12, x=? The answer is 8 because 96/12 equals 8."
+    },
+    {
+        "type": "a_minus_b_q",
+        "Q": "371-59=?",
+        "A": 312,
+        "pos": "371-59=? The answer is 312 because 371-59 equals 312."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "72*29=?",
+        "A": 2088,
+        "pos": "72*29=? The answer is 2088 because 72*29 equals 2088."
+    },
+    {
+        "type": "a_plus_b_q",
+        "Q": "925+37=?",
+        "A": 962,
+        "pos": "925+37=? The answer is 962 because 925+37 equals 962."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "20/10=?",
+        "A": 2,
+        "pos": "20/10=? The answer is 2 because 20/10 equals 2."
+    },
+    {
+        "type": "a_times_b_q",
+        "Q": "88*97=?",
+        "A": 8536,
+        "pos": "88*97=? The answer is 8536 because 88*97 equals 8536."
+    },
+    {
+        "type": "b_over_x_eq_c",
+        "Q": "42/x=6, x=?",
+        "A": 7,
+        "pos": "42/x=6, x=? The answer is 7 because 42/6 equals 7."
+    },
+    {
+        "type": "x_minus_b_eq_c",
+        "Q": "x-966=959, x=?",
+        "A": 1925,
+        "pos": "x-966=959, x=? The answer is 1925 because 959+966 equals 1925."
+    },
+    {
+        "type": "a_over_b_q",
+        "Q": "50/5=?",
+        "A": 10,
+        "pos": "50/5=? The answer is 10 because 50/5 equals 10."
+    }
+]
