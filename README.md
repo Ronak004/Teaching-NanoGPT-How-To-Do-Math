@@ -43,15 +43,24 @@ Each training sample is stored as a JSON object:
 
 ---
 
-## Training Method (DPO)
+## 🧠 Training Method: Direct Preference Optimization (DPO)
 
-We optimize the model to prefer positive outputs over negative outputs using the DPO loss function:
+Instead of traditional Reinforcement Learning from Human Feedback (RLHF), we optimize the model to prefer correct mathematical logic over incorrect ones using the **DPO Loss Function**. This allows the model to align with "preferred" answers without needing a separate reward model.
 
-Where:
 
-*  is the preferred (correct) completion.
-*  is the non-preferred (incorrect) completion.
-*  is a hyperparameter that controls the preference sharpness.
+
+### DPO Loss Equation
+$$\mathcal{L}_{DPO}(\pi_\theta; \pi_{ref}) = -\mathbb{E}_{(x, y_w, y_l) \sim D} \left[ \log \sigma \left( \beta \log \frac{\pi_\theta(y_w|x)}{\pi_{ref}(y_w|x)} - \beta \log \frac{\pi_\theta(y_l|x)}{\pi_{ref}(y_l|x)} \right) \right]$$
+
+### Key Variables:
+* **$\pi_\theta$**: The policy model we are currently training.
+* **$\pi_{ref}$**: The reference model (the base model before DPO).
+* **$y_w$ ($y^+$)**: The "winning" or preferred completion (the correct math answer).
+* **$y_l$ ($y^-$)**: The "losing" or non-preferred completion (the incorrect/weak answer).
+* **$\beta$**: A hyperparameter that controls how much we penalize deviations from the reference model (preference sharpness).
+* **$\sigma$**: The sigmoid function.
+
+By maximizing the log-likelihood ratio between the preferred and rejected responses, the model effectively "learns" the boundary between correct mathematical derivation and common errors.
 
 ---
 
