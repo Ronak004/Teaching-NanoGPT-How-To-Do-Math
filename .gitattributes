@@ -1,0 +1,2 @@
+*.ipynb linguist-vendored=true
+*.py linguist-language=Python
